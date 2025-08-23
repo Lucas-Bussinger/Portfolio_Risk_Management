@@ -1,0 +1,62 @@
+,ticker,name,description
+0,BTC,Bitcoin,The original and most well-known cryptocurrency operating on a decentralized peer-to-peer network.
+1,ETH,Ethereum,A decentralized platform that runs smart contracts enabling developers to build decentralized applications (dApps).
+2,BNB,BNB,The native utility token of the BNB Chain ecosystem used for paying transaction fees and more.
+3,SOL,Solana,A high-performance blockchain known for its fast transaction speeds and low costs.
+4,USDC,USD Coin,A major stablecoin pegged 1:1 to the US dollar backed by fully reserved assets.
+5,XRP,XRP,The native cryptocurrency of the Ripple network designed for fast and low-cost international payments.
+6,TON,Toncoin,The native cryptocurrency of The Open Network (TON) a decentralized layer-1 blockchain.
+7,DOT,Polkadot,An interoperability protocol that connects multiple blockchains into a single network.
+8,BCH,Bitcoin Cash,A hard fork of Bitcoin that aims to be a faster and cheaper electronic cash system.
+9,TRX,TRON,A blockchain-based platform designed to create a decentralized entertainment and content-sharing ecosystem.
+10,LINK,Chainlink,A decentralized oracle network that connects smart contracts with real-world data.
+11,LTC,Litecoin,One of the earliest altcoins designed for faster transaction confirmations than Bitcoin.
+12,NEAR,NEAR Protocol,A climate-neutral high-speed and low-transaction-fee layer-1 blockchain platform.
+13,LEO,UNUS SED LEO,A utility token for the iFinex ecosystem providing discounts on the Bitfinex exchange.
+14,DAI,Dai,A decentralized stablecoin soft-pegged to the US dollar collateralized by a mix of other cryptocurrencies.
+15,UNI,Uniswap,The governance token for Uniswap a leading decentralized exchange (DEX) on Ethereum.
+16,ETC,Ethereum Classic,The original Ethereum blockchain that did not hard fork after the DAO incident.
+17,APT,Aptos,A layer-1 proof-of-stake blockchain designed for scalability and safety.
+18,XLM,Stellar,An open network that allows money to be moved and stored facilitating low-cost cross-border transactions.
+19,OKB,OKB,The global utility token of the OKX crypto exchange.
+20,IMX,Immutable,A layer-2 scaling solution for NFTs on Ethereum offering gas-free minting and trading.
+21,FIL,Filecoin,A decentralized storage network designed to store humanity's most important information.
+22,CRO,Cronos,The native token of the Crypto.com ecosystem including its blockchain and exchange.
+23,VET,VeChain,A blockchain platform designed to enhance supply chain management and business processes.
+24,SUI,Sui,A layer-1 blockchain designed from the ground up to be highly scalable and secure.
+25,GRT,The Graph,An indexing protocol for querying data from blockchains like Ethereum.
+26,TAO,Bittensor,A decentralized machine learning network that incentivizes the creation of AI models.
+27,OP,Optimism,A layer-2 scaling solution for Ethereum that uses optimistic rollups.
+28,LDO,Lido DAO,The governance token for the Lido DAO which manages the Lido staking protocol.
+29,BGB,Bitget Token,The native utility token of the Bitget crypto exchange.
+30,ARB,Arbitrum,A layer-2 scaling solution for Ethereum designed to improve its speed and scalability.
+31,KAS,Kaspa,A proof-of-work cryptocurrency that implements the GHOSTDAG protocol.
+32,XMR,Monero,A privacy-focused cryptocurrency that uses cryptography to shield sending and receiving addresses.
+33,SEI,Sei,A layer-1 blockchain designed specifically for trading optimizing for speed and reliability.
+34,ATOM,Cosmos,An ecosystem of interconnected blockchains designed to be scalable and interoperable.
+35,AR,Arweave,A decentralized storage network that seeks to offer a platform for the indefinite storage of data.
+36,FTM,Fantom,A high-performance scalable and secure smart-contract platform.
+37,WIF,dogwifhat,A memecoin on the Solana blockchain featuring a Shiba Inu dog wearing a pink knitted hat.
+38,BEAM,Beam,A confidential DeFi platform and cryptocurrency focused on privacy.
+39,STX,Stacks,A layer that brings smart contracts and decentralized applications to Bitcoin.
+40,AGIX,SingularityNET,A decentralized marketplace for Artificial Intelligence (AI) services.
+41,BSV,Bitcoin SV,A hard fork of Bitcoin Cash that aims to restore the original Bitcoin protocol.
+42,FLOW,Flow,A fast decentralized and developer-friendly blockchain designed for a new generation of games and dApps.
+43,FET,Fetch.ai,A decentralized machine learning platform for applications such as asset trading and gig-economy work.
+44,SAND,The Sandbox,A virtual world built on the Ethereum blockchain where players can build own and monetize their gaming experiences.
+45,SNX,Synthetix,A decentralized finance (DeFi) protocol that provides on-chain exposure to a wide variety of crypto and non-crypto assets.
+46,AXS,Axie Infinity,The governance token for the Axie Infinity blockchain game universe.
+47,EOS,EOS,A blockchain platform designed to host decentralized applications.
+48,CHZ,Chiliz,A digital currency for sports and entertainment platforms powering the Socios.com fan engagement platform.
+49,GNO,Gnosis,A decentralized infrastructure provider that has developed various products on Ethereum.
+50,WLD,Worldcoin,An identity-focused crypto project that aims to create a global financial network.
+51,NEO,Neo,A blockchain platform and cryptocurrency designed to build a scalable network of decentralized applications.
+52,JUP,Jupiter,A liquidity aggregator for the Solana blockchain offering a wide range of tokens and route discovery.
+53,AKT,Akash Network,A decentralized cloud computing marketplace that connects users who need computing resources with those who have them to lease.
+54,BTT,BitTorrent,A TRC-10 utility token on the TRON blockchain that powers various BitTorrent features.
+55,CAKE,PancakeSwap,The governance token for PancakeSwap a popular decentralized exchange on the BNB Smart Chain.
+56,WEMIX,WEMIX,A blockchain gaming platform developed by South Korean video game developer Wemade.
+57,FXS,Frax Share,The governance token of the Frax Protocol a fractional-algorithmic stablecoin system.
+58,RON,Ronin,An Ethereum-linked sidechain made specifically for the Axie Infinity game.
+59,SATS,SATS (Ordinals),A BRC-20 memecoin that satirically pays homage to Satoshi Nakamoto.
+60,TWT,Trust Wallet Token,The utility token of the Trust Wallet ecosystem used for governance and wallet benefits.

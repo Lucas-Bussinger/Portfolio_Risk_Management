@@ -1,0 +1,3908 @@
+[
+    {
+        "risk": 0.022281049508978256,
+        "earning": 0.07062126707115578,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.6
+            }
+        ]
+    },
+    {
+        "risk": 0.01890984929389664,
+        "earning": 0.06834884837127396,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.5
+            }
+        ]
+    },
+    {
+        "risk": 0.015858949925504122,
+        "earning": 0.0668292779085845,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.013065432069868326,
+        "earning": 0.065916402778809,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.010549255409128743,
+        "earning": 0.06550244109398234,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.008284063337793659,
+        "earning": 0.06550869843630196,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02113184585259123,
+        "earning": 0.07096611988218171,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.5
+            }
+        ]
+    },
+    {
+        "risk": 0.01793933126021808,
+        "earning": 0.06896584979728071,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.015041951738195858,
+        "earning": 0.06767477926833025,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.012446861743702098,
+        "earning": 0.06695710078134297,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.010125261669057391,
+        "earning": 0.06671820377710928,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.020264120984637077,
+        "earning": 0.07153436054485542,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.01723045665880758,
+        "earning": 0.06978137817068582,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.014529238289580882,
+        "earning": 0.06869907674095042,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.012126969869950696,
+        "earning": 0.0681712020718468,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.019631711393688408,
+        "earning": 0.07234188051541646,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.016804767255231935,
+        "earning": 0.07082184596379058,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.014304369055163373,
+        "earning": 0.06994865678754404,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.019248886708875784,
+        "earning": 0.0733481826249502,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.01662052118453902,
+        "earning": 0.07206097528528317,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.01907475377646384,
+        "earning": 0.07454387534654307,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.021655673116819107,
+        "earning": 0.07231455646055203,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.5
+            }
+        ]
+    },
+    {
+        "risk": 0.0186362851235642,
+        "earning": 0.07039989374522244,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.015898998533298316,
+        "earning": 0.06912340223585557,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.013448092098707357,
+        "earning": 0.06836392046285306,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.011258928963217105,
+        "earning": 0.06804501244335763,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.020736183088485103,
+        "earning": 0.07282889273344588,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.01786891304949127,
+        "earning": 0.07114676437596114,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.01531021672626541,
+        "earning": 0.0700600491601765,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.013030539915397545,
+        "earning": 0.06947625519042067,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02006036979797417,
+        "earning": 0.07354735997548677,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.01736784268002868,
+        "earning": 0.07206662732875707,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.01497876877835999,
+        "earning": 0.07116956305912062,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.019617539587107952,
+        "earning": 0.07445920704377411,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.017104107952629722,
+        "earning": 0.0731909331501508,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.01938371547087692,
+        "earning": 0.07556160630633312,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.021486566876057142,
+        "earning": 0.07431018134795238,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.018754487739240416,
+        "earning": 0.07267350744144584,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.016315855652197942,
+        "earning": 0.07157733953488583,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.014145299815829153,
+        "earning": 0.07094768582201642,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.020739010267605055,
+        "earning": 0.07496703564997713,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.018169992054668585,
+        "earning": 0.07351730275420522,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.015888196788400737,
+        "earning": 0.07260136800151641,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02023310664084532,
+        "earning": 0.07579577689637444,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.01781992217754713,
+        "earning": 0.0745398240413606,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.01993001030538846,
+        "earning": 0.0768117477733178,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02162122310930793,
+        "earning": 0.07657447833346648,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.019169714997524803,
+        "earning": 0.07515173837051407,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.0169924282699109,
+        "earning": 0.07422063924768016,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02103007148648102,
+        "earning": 0.07732754955669406,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.018725745413605874,
+        "earning": 0.07609041023297036,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02065860180623083,
+        "earning": 0.07826795542467573,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02196086319595277,
+        "earning": 0.07894953786972289,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.019750570624600814,
+        "earning": 0.07772735352071693,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02149571991226197,
+        "earning": 0.07980826720641802,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.022421656464285105,
+        "earning": 0.08138537768015482,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02204425978801636,
+        "earning": 0.07049635719450058,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.5
+            }
+        ]
+    },
+    {
+        "risk": 0.01870647439224812,
+        "earning": 0.06824795763562751,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.015685783152375236,
+        "earning": 0.06676192064104046,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.012980598573024813,
+        "earning": 0.0658925065950368,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.010553968606041441,
+        "earning": 0.06553054018752262,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.020978475170327776,
+        "earning": 0.07098600325689598,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.017807250343992262,
+        "earning": 0.0690082318832369,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.01498198717656943,
+        "earning": 0.06774938317420363,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.012460225268832767,
+        "earning": 0.06707721647553179,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.020176733805619122,
+        "earning": 0.07169111342542091,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.01719715187161534,
+        "earning": 0.0699560100502045,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.014555127960637293,
+        "earning": 0.06891212945330734,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.019631152145566915,
+        "earning": 0.07262385940045506,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.01684948656156575,
+        "earning": 0.0711332748398044,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.019321084909325655,
+        "earning": 0.07376545493169383,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.021559603851049408,
+        "earning": 0.07235459206213497,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.018561245704478615,
+        "earning": 0.07046541873318059,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.01588841747494729,
+        "earning": 0.0692163451106477,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.013504626690119446,
+        "earning": 0.0685009142035138,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02070256319123095,
+        "earning": 0.07300654009765056,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.017882832489187917,
+        "earning": 0.07133923106504289,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.015376931732458547,
+        "earning": 0.0702902067048544,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02010373999462366,
+        "earning": 0.0738417945741393,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.01745043229233933,
+        "earning": 0.07239163361026997,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.019723567285106595,
+        "earning": 0.0748839705416622,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02149413150922061,
+        "earning": 0.0744864714165937,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.018804395548616012,
+        "earning": 0.0728619554794118,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.016416052315040352,
+        "earning": 0.07180453184196102,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.020816788809440278,
+        "earning": 0.075256106580035,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.01828459109587116,
+        "earning": 0.07383873473325857,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.020369398171906913,
+        "earning": 0.07621396290141168,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.021726839103121714,
+        "earning": 0.07684779787268776,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.019311012582475775,
+        "earning": 0.07545969675166368,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.021191614519219984,
+        "earning": 0.07773009898129159,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.022142807011789323,
+        "earning": 0.07933176228544034,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.021996231950917534,
+        "earning": 0.07055650993005776,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.01868150825382271,
+        "earning": 0.06832011687864062,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.015736600874496832,
+        "earning": 0.06686209026268317,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.01311156897226217,
+        "earning": 0.06603128118779002,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.020998675093603175,
+        "earning": 0.07118249581312189,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.01788274246550983,
+        "earning": 0.06921597289673807,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.015121182481865477,
+        "earning": 0.067987279497025,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02028429059693908,
+        "earning": 0.07201338163677036,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.017351958968458512,
+        "earning": 0.07029813301125036,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.019810920315765812,
+        "earning": 0.07307965399708395,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.021624396455426534,
+        "earning": 0.07255734262635925,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.018674189382857045,
+        "earning": 0.0706780823060043,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.016058333992187753,
+        "earning": 0.06946033165234357,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02084529064411937,
+        "earning": 0.07332765742986841,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.018066960385904596,
+        "earning": 0.07168331746903216,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.020311418565107587,
+        "earning": 0.0742917187476179,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.021665021918194204,
+        "earning": 0.07479475821821567,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.019014208825049988,
+        "earning": 0.0731963291615655,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02104840193638846,
+        "earning": 0.07569199031250713,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02197858157830761,
+        "earning": 0.07726438317968383,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02211829416488244,
+        "earning": 0.07079464058726814,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.01885543288371054,
+        "earning": 0.06856133286999215,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.015974938612612913,
+        "earning": 0.06712440196264531,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.021207258423621474,
+        "earning": 0.07154661068159514,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.01813741568803619,
+        "earning": 0.06958920878814513,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.020567704008851242,
+        "earning": 0.07250875001279986,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.021859127707840265,
+        "earning": 0.072907536001596,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.01894925162648566,
+        "earning": 0.07104278463982573,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.021146366290875046,
+        "earning": 0.07380394165993243,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.021983821786807734,
+        "earning": 0.07525104967341523,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.022420251945569125,
+        "earning": 0.07120458739555695,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.01919869824924457,
+        "earning": 0.068968242932568,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.021584036696901388,
+        "earning": 0.07208394000933212,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02224634303081069,
+        "earning": 0.07341554195105733,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.02289006037457958,
+        "earning": 0.0717915536407333,
+        "tickers": [
+            {
+                "ticker": "XLF",
+                "market": "financials",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "^RMZ",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-35",
+                "market": "health_care",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    }
+]

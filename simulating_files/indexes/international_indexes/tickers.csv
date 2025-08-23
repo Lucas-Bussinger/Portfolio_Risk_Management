@@ -1,0 +1,63 @@
+,ticker,name,market,description
+0,^FTSE,FTSE 100,UK,Tracks the 100 largest companies listed on the London Stock Exchange by market capitalization.
+1,^GDAXI,DAX PERFORMANCE-INDEX,Germany,Tracks 40 of the largest and most actively traded blue-chip companies on the Frankfurt Stock Exchange.
+2,^FCHI,CAC 40,France,A benchmark for the French market tracking the 40 largest stocks on the Euronext Paris.
+3,^STOXX50E,EURO STOXX 50,Eurozone,Tracks 50 of the largest and most liquid stocks from 11 countries in the Eurozone.
+4,^N225,Nikkei 225,Japan,The leading price-weighted index for the 225 largest companies on the Tokyo Stock Exchange.
+5,^HSI,HANG SENG INDEX,Hong Kong,Tracks the largest and most liquid companies on the Hong Kong Stock Exchange.
+6,^SSMI,Swiss Market Index,Switzerland,Tracks the 20 largest and most liquid stocks on the SIX Swiss Exchange.
+7,^GSPTSE,S&P/TSX Composite Index,Canada,The headline index for the Canadian equity market covering about 70% of the Toronto Stock Exchange.
+8,^AXJO,S&P/ASX 200,Australia,A benchmark for the Australian market tracking the 200 largest stocks on the Australian Securities Exchange.
+9,^KS11,KOSPI Composite Index,South Korea,The main index for South Korea tracking all common stocks on the Korea Stock Exchange.
+10,^TWII,TSEC weighted index,Taiwan,The primary benchmark for the Taiwan Stock Exchange.
+11,^BVSP,IBOVESPA,Brazil,The main performance indicator of the B3 stock exchange in São Paulo Brazil.
+12,^MXX,IPC MEXICO,Mexico,Tracks the 35 most liquid stocks on the Mexican Stock Exchange.
+13,^N100,Euronext 100,Europe,Tracks the 100 largest and most liquid stocks traded on the Euronext exchange.
+14,^BFX,BEL 20,Belgium,Tracks the 20 largest and most liquid stocks on the Euronext Brussels.
+15,^AEX,AEX-Index,Netherlands,The main index for the Dutch market tracking the 25 most traded securities on Euronext Amsterdam.
+16,^OMX,OMX Stockholm 30,Sweden,Tracks the 30 most traded stocks on the Stockholm Stock Exchange.
+17,^STI,Straits Times Index,Singapore,Tracks the top 30 companies on the Singapore Exchange.
+18,^KLSE,FTSE Bursa Malaysia KLCI,Malaysia,A benchmark tracking the 30 largest companies on the Bursa Malaysia.
+19,^JKSE,Jakarta Composite Index,Indonesia,The main stock market index in Indonesia.
+20,^BSESN,S&P BSE SENSEX,India,Tracks 30 of the largest and most well-established companies on the Bombay Stock Exchange.
+21,^NSEI,NIFTY 50,India,A benchmark for the Indian market tracking 50 of the largest stocks on the National Stock Exchange.
+22,000001.SS,SSE Composite Index,China,Tracks all stocks (A and B shares) traded on the Shanghai Stock Exchange.
+23,399001.SZ,Shenzhen Component,China,Tracks 500 of the largest and most liquid stocks on the Shenzhen Stock Exchange.
+24,^XAX,NYSE American Composite,Global,Tracks all stocks listed on the NYSE American exchange.
+25,^MERV,MERVAL,Argentina,The most important index of the Buenos Aires Stock Exchange.
+26,^VIX,CBOE Volatility Index,Global Volatility,Tracks the implied volatility of S&P 500 options known as the 'Fear Index'.
+27,^BUK100P,Cboe UK 100,UK,A price-weighted index of 100 leading UK stocks.
+28,^ISEQ,ISEQ 20,Ireland,Tracks the 20 largest and most liquid companies on the Irish Stock Exchange.
+29,^FTMC,FTSE 250,UK,Tracks mid-capitalization companies (the 101st to the 350th largest) on the LSE.
+30,^OMXH25,OMX Helsinki 25,Finland,Tracks the 25 most traded stocks on the Nasdaq Helsinki exchange.
+31,^OMXC25,OMX Copenhagen 25,Denmark,Tracks the 25 most traded stocks on the Nasdaq Copenhagen exchange.
+32,^IBEX,IBEX 35,Spain,The benchmark index for the Bolsa de Madrid tracking 35 of the most liquid Spanish stocks.
+33,^PSI20,PSI 20,Portugal,Tracks the 20 largest stocks on the Euronext Lisbon exchange.
+34,^ATX,Austrian Traded Index,Austria,The most important stock market index of the Vienna Stock Exchange tracking 20 companies.
+35,^AORD,All Ordinaries,Australia,A broader index than the ASX 200 tracking around 500 of the largest companies.
+36,^NZ50,S&P/NZX 50 Index,New Zealand,The main stock market index in New Zealand.
+37,^J203.JO,FTSE/JSE Top 40,South Africa,Tracks the 40 largest companies on the Johannesburg Stock Exchange.
+38,^XU100,BIST 100,Turkey,The main stock market index for the Borsa Istanbul.
+39,^HSCE,Hang Seng China Enterprises Index,Hong Kong/China,Tracks H-shares of mainland Chinese companies listed in Hong Kong.
+40,^MDAXI,MDAX,Germany,Tracks 50 mid-cap German companies ranking below the DAX stocks.
+41,^SDAXI,SDAX,Germany,Tracks 70 small-cap German companies.
+42,^OSEAX,Oslo Børs All-Share,Norway,A broad index tracking all shares listed on the Oslo Stock Exchange.
+43,^OBX,OBX Index,Norway,Tracks the 25 most liquid stocks on the Oslo Stock Exchange.
+44,^WIG20,WIG20,Poland,Tracks the 20 largest companies on the Warsaw Stock Exchange.
+45,^BUX,Budapest Stock Exchange Index,Hungary,The main index for the Budapest Stock Exchange.
+46,^PX,PX Index,Czech Republic,The main index for the Prague Stock Exchange.
+47,^VNI,VN-Index,Vietnam,The main index for the Ho Chi Minh Stock Exchange.
+48,^KSE,KSE 100 Index,Pakistan,The benchmark index for the Pakistan Stock Exchange.
+49,^FTAS,FTSE All-Share,UK,A broader index tracking over 600 companies on the London Stock Exchange.
+50,^MCX,MICEX 10,Russia,Tracks the 10 most liquid stocks of the Russian stock market.
+51,^IMUS,MSCI USA Index,USA,A broad index of U.S. large and mid-cap stocks.
+52,^IPSA,S&P CLX IPSA,Chile,The main index for the Santiago Stock Exchange in Chile.
+53,^SPBLPGPT,S&P/BVL Peru General Index,Peru,The main index for the Lima Stock Exchange in Peru.
+54,^DJI,Dow Jones Industrial Average,USA (Global Impact),Tracks 30 large US companies with significant global operations.
+55,^RTS,RTSI (RTS Index),Russia,A capitalization-weighted composite index of the Russian stock market.
+56,^J253.JO,FTSE/JSE All Share,South Africa,A broad index of stocks on the Johannesburg Stock Exchange.
+57,^OMXC20,OMX Copenhagen 20,Denmark,A former benchmark of 20 top Danish companies now largely replaced by OMXC25.
+58,^ISEQ,ISEQ Overall Index,Ireland,A broad index tracking all stocks on the Irish Stock Exchange.
+59,^SBF120,SBF 120,France,A broader index of 120 top French stocks.
+60,^TECDAX,TecDAX,Germany,A technology-focused index tracking 30 of the largest German tech companies.
+61,^STOXX,STOXX Europe 600,Europe,A broad index tracking 600 large mid and small-cap stocks across 17 European countries.

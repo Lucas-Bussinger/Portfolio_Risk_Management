@@ -1,0 +1,2862 @@
+[
+    {
+        "risk": 0.03458875016901454,
+        "earning": 0.16148934211982394,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.01
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.98
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03458875016901454
+    },
+    {
+        "risk": 0.034515316685220496,
+        "earning": 0.16093448309399874,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.01
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.97
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.034515316685220496
+    },
+    {
+        "risk": 0.03430703289994391,
+        "earning": 0.16079464459652698,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.02
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.97
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03430703289994391
+    },
+    {
+        "risk": 0.0342328380663793,
+        "earning": 0.1602380152422609,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.02
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.96
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0342328380663793
+    },
+    {
+        "risk": 0.03403246545672931,
+        "earning": 0.1601101972803385,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.03
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.96
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03403246545672931
+    },
+    {
+        "risk": 0.03395761212332854,
+        "earning": 0.15955188399474785,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.03
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.95
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03395761212332854
+    },
+    {
+        "risk": 0.03376503820087592,
+        "earning": 0.15943581538797313,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.04
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.95
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03376503820087592
+    },
+    {
+        "risk": 0.03368968597674411,
+        "earning": 0.15887611563441842,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.04
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.94
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03368968597674411
+    },
+    {
+        "risk": 0.03350479344689765,
+        "earning": 0.15877152366824812,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.05
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.94
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03350479344689765
+    },
+    {
+        "risk": 0.03342891868159316,
+        "earning": 0.15821004659546428,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.05
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.93
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03342891868159316
+    },
+    {
+        "risk": 0.03325155192114223,
+        "earning": 0.1581166741955847,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.06
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.93
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03325155192114223
+    },
+    {
+        "risk": 0.03317533673063967,
+        "earning": 0.15755365271672778,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.06
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.92
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03317533673063967
+    },
+    {
+        "risk": 0.03300537179869685,
+        "earning": 0.15747126574526987,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.07
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.92
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03300537179869685
+    },
+    {
+        "risk": 0.0329288935023014,
+        "earning": 0.1569067697221262,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.07
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.91
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0329288935023014
+    },
+    {
+        "risk": 0.032766245730294144,
+        "earning": 0.15683507603076774,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.08
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.91
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032766245730294144
+    },
+    {
+        "risk": 0.032689590422826945,
+        "earning": 0.1562691731672524,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.08
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.9
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032689590422826945
+    },
+    {
+        "risk": 0.03253410095157693,
+        "earning": 0.15620796438303358,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.9
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03253410095157693
+    },
+    {
+        "risk": 0.03245739983286195,
+        "earning": 0.1556406682736219,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.89
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03245739983286195
+    },
+    {
+        "risk": 0.03230893794366157,
+        "earning": 0.15558969618553925,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.89
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03230893794366157
+    },
+    {
+        "risk": 0.032232266243967404,
+        "earning": 0.1550210826363037,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.88
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032232266243967404
+    },
+    {
+        "risk": 0.03209439938012924,
+        "earning": 0.15499036757861376,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.11
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.88
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03209439938012924
+    },
+    {
+        "risk": 0.03201784144338957,
+        "earning": 0.15442037590406738,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.11
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.87
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03201784144338957
+    },
+    {
+        "risk": 0.03188295384898286,
+        "earning": 0.15438902072641006,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.12
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.87
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03188295384898286
+    },
+    {
+        "risk": 0.031806608933858546,
+        "earning": 0.153817795754354,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.12
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.86
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031806608933858546
+    },
+    {
+        "risk": 0.031678395252709726,
+        "earning": 0.15379600309003175,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.13
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.86
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031678395252709726
+    },
+    {
+        "risk": 0.0316023710258494,
+        "earning": 0.15322359059798926,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.13
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.85
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0316023710258494
+    },
+    {
+        "risk": 0.03148071008205854,
+        "earning": 0.1532111412262847,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.14
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.85
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03148071008205854
+    },
+    {
+        "risk": 0.03140526681855901,
+        "earning": 0.15263815524746066,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.14
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.84
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03140526681855901
+    },
+    {
+        "risk": 0.03129002007352839,
+        "earning": 0.15263485830292256,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.15
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.84
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03129002007352839
+    },
+    {
+        "risk": 0.031105961788520382,
+        "earning": 0.15206585760187416,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.16
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.83
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031105961788520382
+    },
+    {
+        "risk": 0.030928658515851904,
+        "earning": 0.15150451658178318,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.17
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.82
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.030928658515851904
+    },
+    {
+        "risk": 0.030758070912197656,
+        "earning": 0.15095070386167578,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.81
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.030758070912197656
+    },
+    {
+        "risk": 0.03059418396324824,
+        "earning": 0.15040424102785505,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.19
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.8
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03059418396324824
+    },
+    {
+        "risk": 0.030436939702185962,
+        "earning": 0.1498649961247929,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.79
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.030436939702185962
+    },
+    {
+        "risk": 0.03028630479136421,
+        "earning": 0.14933282459487845,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.21
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.78
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03028630479136421
+    },
+    {
+        "risk": 0.03014435236771702,
+        "earning": 0.1488152737910413,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.22
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.77
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03014435236771702
+    },
+    {
+        "risk": 0.030006697729513816,
+        "earning": 0.14829660086391722,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.23
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.76
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.030006697729513816
+    },
+    {
+        "risk": 0.029875527868555483,
+        "earning": 0.14778458862110833,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.24
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.75
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.029875527868555483
+    },
+    {
+        "risk": 0.029750809017966777,
+        "earning": 0.1472790867208928,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.25
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.74
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.029750809017966777
+    },
+    {
+        "risk": 0.02963269940497663,
+        "earning": 0.14678081009992605,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.26
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.73
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02963269940497663
+    },
+    {
+        "risk": 0.029520761736229778,
+        "earning": 0.1462879496073832,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.72
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.029520761736229778
+    },
+    {
+        "risk": 0.02941513125709347,
+        "earning": 0.14580123517643423,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.28
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.71
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02941513125709347
+    },
+    {
+        "risk": 0.02931577111284872,
+        "earning": 0.1453205264917731,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.7
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02931577111284872
+    },
+    {
+        "risk": 0.029222625532319812,
+        "earning": 0.14484571929998075,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.69
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.029222625532319812
+    },
+    {
+        "risk": 0.02913565987816667,
+        "earning": 0.1443766570227654,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.68
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02913565987816667
+    },
+    {
+        "risk": 0.029054826407187755,
+        "earning": 0.14391324768858532,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.67
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.029054826407187755
+    },
+    {
+        "risk": 0.028980992541455308,
+        "earning": 0.14346112903823385,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.66
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028980992541455308
+    },
+    {
+        "risk": 0.028912175778372046,
+        "earning": 0.14300852200614386,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.65
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028912175778372046
+    },
+    {
+        "risk": 0.028849346937103327,
+        "earning": 0.14256121824660534,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.64
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028849346937103327
+    },
+    {
+        "risk": 0.02879255204183217,
+        "earning": 0.1421201725668255,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.63
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02879255204183217
+    },
+    {
+        "risk": 0.028741519718353585,
+        "earning": 0.14168320957245117,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.62
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028741519718353585
+    },
+    {
+        "risk": 0.02869630720679071,
+        "earning": 0.1412512435995694,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.61
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02869630720679071
+    },
+    {
+        "risk": 0.02865686711376227,
+        "earning": 0.14082417700515035,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02865686711376227
+    },
+    {
+        "risk": 0.02865532238655676,
+        "earning": 0.14065745239445146,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02865532238655676
+    },
+    {
+        "risk": 0.028623149403865688,
+        "earning": 0.14040189901497765,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.59
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028623149403865688
+    },
+    {
+        "risk": 0.02861821141540345,
+        "earning": 0.1402297390327138,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.59
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02861821141540345
+    },
+    {
+        "risk": 0.02861626581760444,
+        "earning": 0.14006641572415454,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.59
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.03
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02861626581760444
+    },
+    {
+        "risk": 0.028595093429306724,
+        "earning": 0.13998431835955877,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.41
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.58
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028595093429306724
+    },
+    {
+        "risk": 0.02858689917802281,
+        "earning": 0.13980681686972968,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.58
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02858689917802281
+    },
+    {
+        "risk": 0.02858155163567248,
+        "earning": 0.13963796189921912,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.58
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.03
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02858155163567248
+    },
+    {
+        "risk": 0.028572669307897054,
+        "earning": 0.13957132953717416,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.42
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.57
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028572669307897054
+    },
+    {
+        "risk": 0.02856130760891548,
+        "earning": 0.13938859672782705,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.41
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.57
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02856130760891548
+    },
+    {
+        "risk": 0.028552696792096426,
+        "earning": 0.13921430809764293,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.57
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.03
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028552696792096426
+    },
+    {
+        "risk": 0.028546211360430795,
+        "earning": 0.13903569317996695,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.57
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.04
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028546211360430795
+    },
+    {
+        "risk": 0.02854138932395798,
+        "earning": 0.13897497683697518,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.42
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02854138932395798
+    },
+    {
+        "risk": 0.028529616683098235,
+        "earning": 0.13879537272205067,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.41
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.03
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028529616683098235
+    },
+    {
+        "risk": 0.0285198637636296,
+        "earning": 0.13861132179312768,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.04
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0285198637636296
+    },
+    {
+        "risk": 0.028512623943364644,
+        "earning": 0.13842937707596598,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.05
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028512623943364644
+    },
+    {
+        "risk": 0.02851226077078728,
+        "earning": 0.1383810628833336,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.42
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.55
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.03
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02851226077078728
+    },
+    {
+        "risk": 0.028508325918681864,
+        "earning": 0.13825611632204277,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.06
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028508325918681864
+    },
+    {
+        "risk": 0.02849935380264178,
+        "earning": 0.13819165573823242,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.41
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.55
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.04
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02849935380264178
+    },
+    {
+        "risk": 0.02848885143892658,
+        "earning": 0.13800421347910546,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.55
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.05
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02848885143892658
+    },
+    {
+        "risk": 0.028481142691228988,
+        "earning": 0.13782529920053657,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.55
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.06
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028481142691228988
+    },
+    {
+        "risk": 0.028475766679448032,
+        "earning": 0.1376421959328998,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.55
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.07
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028475766679448032
+    },
+    {
+        "risk": 0.028470974591011187,
+        "earning": 0.1375837945399695,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.41
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.05
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028470974591011187
+    },
+    {
+        "risk": 0.028459999982809486,
+        "earning": 0.13739928806491783,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.06
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028459999982809486
+    },
+    {
+        "risk": 0.028451215183512884,
+        "earning": 0.137210508621255,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.07
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028451215183512884
+    },
+    {
+        "risk": 0.02844506598182602,
+        "earning": 0.1370239666504965,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.08
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02844506598182602
+    },
+    {
+        "risk": 0.02844481522226832,
+        "earning": 0.13697803016489843,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.41
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.53
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.06
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02844481522226832
+    },
+    {
+        "risk": 0.02844195486635586,
+        "earning": 0.13684614351795146,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02844195486635586
+    },
+    {
+        "risk": 0.028432753180347787,
+        "earning": 0.13678366888966656,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.53
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.07
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028432753180347787
+    },
+    {
+        "risk": 0.02842320255300813,
+        "earning": 0.13659137729640033,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.53
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.08
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02842320255300813
+    },
+    {
+        "risk": 0.028416546544579202,
+        "earning": 0.1364076119476681,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.53
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028416546544579202
+    },
+    {
+        "risk": 0.02841239950599057,
+        "earning": 0.1362199125539388,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.53
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.1
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02841239950599057
+    },
+    {
+        "risk": 0.028407553886101812,
+        "earning": 0.1361649815338601,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.08
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028407553886101812
+    },
+    {
+        "risk": 0.028397504298239624,
+        "earning": 0.13597542076615848,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028397504298239624
+    },
+    {
+        "risk": 0.028389824515891515,
+        "earning": 0.13578177585337367,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.1
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028389824515891515
+    },
+    {
+        "risk": 0.028384918684893234,
+        "earning": 0.1355904995410741,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.11
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028384918684893234
+    },
+    {
+        "risk": 0.028384614409494045,
+        "earning": 0.13554668250427354,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.51
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028384614409494045
+    },
+    {
+        "risk": 0.028383157750237958,
+        "earning": 0.1354079879450447,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.12
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028383157750237958
+    },
+    {
+        "risk": 0.02837353507265984,
+        "earning": 0.1353471870751895,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.51
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.1
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02837353507265984
+    },
+    {
+        "risk": 0.028365092411404457,
+        "earning": 0.1351498772127085,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.51
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.11
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028365092411404457
+    },
+    {
+        "risk": 0.028359656274307372,
+        "earning": 0.134961109939808,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.51
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.12
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028359656274307372
+    },
+    {
+        "risk": 0.02835689038984876,
+        "earning": 0.13476867035480306,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.51
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.13
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02835689038984876
+    },
+    {
+        "risk": 0.028351710060540974,
+        "earning": 0.13471420206013796,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.11
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028351710060540974
+    },
+    {
+        "risk": 0.028342708982479054,
+        "earning": 0.13451935239789675,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.12
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028342708982479054
+    },
+    {
+        "risk": 0.028336287200556642,
+        "earning": 0.13432060775588126,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.13
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028336287200556642
+    },
+    {
+        "risk": 0.02833277955135271,
+        "earning": 0.1341243833425551,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.14
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02833277955135271
+    },
+    {
+        "risk": 0.02833228822093848,
+        "earning": 0.1340825555171107,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.49
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.12
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02833228822093848
+    },
+    {
+        "risk": 0.028322313342468663,
+        "earning": 0.1338776751791181,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.49
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.13
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028322313342468663
+    },
+    {
+        "risk": 0.028315123798484047,
+        "earning": 0.13367510618355088,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.49
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.14
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028315123798484047
+    },
+    {
+        "risk": 0.02831103794535133,
+        "earning": 0.13348114732383287,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.49
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.15
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02831103794535133
+    },
+    {
+        "risk": 0.028309858855167996,
+        "earning": 0.1332837176689389,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.49
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.16
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028309858855167996
+    },
+    {
+        "risk": 0.0283041980575452,
+        "earning": 0.13323091973869922,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.48
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.14
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0283041980575452
+    },
+    {
+        "risk": 0.028296427735571554,
+        "earning": 0.13303053312999333,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.48
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.15
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028296427735571554
+    },
+    {
+        "risk": 0.02829140032658632,
+        "earning": 0.1328265050464555,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.48
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.16
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02829140032658632
+    },
+    {
+        "risk": 0.02828947332628261,
+        "earning": 0.13262514163032,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.48
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.17
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02828947332628261
+    },
+    {
+        "risk": 0.02828862222176251,
+        "earning": 0.13258502821603302,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.47
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.15
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02828862222176251
+    },
+    {
+        "risk": 0.028279927699778502,
+        "earning": 0.13237451135571113,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.47
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.16
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028279927699778502
+    },
+    {
+        "risk": 0.02827415673783722,
+        "earning": 0.13216646559630021,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.47
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.17
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02827415673783722
+    },
+    {
+        "risk": 0.028271600942213725,
+        "earning": 0.13196710423134014,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.47
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.18
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028271600942213725
+    },
+    {
+        "risk": 0.028265867990403686,
+        "earning": 0.13171307915329664,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.46
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.17
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028265867990403686
+    },
+    {
+        "risk": 0.02825947901799327,
+        "earning": 0.13150691983626897,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.46
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.18
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02825947901799327
+    },
+    {
+        "risk": 0.0282560508114028,
+        "earning": 0.13129737523370327,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.46
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.19
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0282560508114028
+    },
+    {
+        "risk": 0.028255889637353197,
+        "earning": 0.13109066849070702,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.46
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.2
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028255889637353197
+    },
+    {
+        "risk": 0.028254477994081123,
+        "earning": 0.13105200923547694,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.18
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028254477994081123
+    },
+    {
+        "risk": 0.02824721122877501,
+        "earning": 0.13083563110052335,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.19
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02824721122877501
+    },
+    {
+        "risk": 0.028243047324539028,
+        "earning": 0.13062186409418888,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.2
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028243047324539028
+    },
+    {
+        "risk": 0.028242241305223785,
+        "earning": 0.13041683733216333,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.21
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028242241305223785
+    },
+    {
+        "risk": 0.02823759153795798,
+        "earning": 0.13015848756239137,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.44
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.2
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02823759153795798
+    },
+    {
+        "risk": 0.028232780766144588,
+        "earning": 0.12994629908173438,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.44
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.21
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028232780766144588
+    },
+    {
+        "risk": 0.02823114928629076,
+        "earning": 0.1297309912401215,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.44
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.22
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02823114928629076
+    },
+    {
+        "risk": 0.028230792333664833,
+        "earning": 0.1294811989719101,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.43
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.21
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028230792333664833
+    },
+    {
+        "risk": 0.02822515674468354,
+        "earning": 0.1292586635719443,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.43
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.22
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02822515674468354
+    },
+    {
+        "risk": 0.028222812232092866,
+        "earning": 0.1290389141135548,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.43
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.23
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028222812232092866
+    },
+    {
+        "risk": 0.028220389388171636,
+        "earning": 0.12856675340957396,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.42
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.23
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028220389388171636
+    },
+    {
+        "risk": 0.028217381913503887,
+        "earning": 0.12834826480537828,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.42
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.24
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028217381913503887
+    },
+    {
+        "risk": 0.028214817735058705,
+        "earning": 0.12764319321159923,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.41
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.25
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028214817735058705
+    },
+    {
+        "risk": 0.02821453247136379,
+        "earning": 0.12741721349503093,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.41
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.26
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02821453247136379
+    },
+    {
+        "risk": 0.02821435508576922,
+        "earning": 0.12670619784824894,
+        "tickers": [
+            {
+                "ticker": "ESS",
+                "market": "real_estate",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "ORCL",
+                "market": "information_technology",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "BAC",
+                "market": "financials",
+                "percentage": 0.27
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02821435508576922
+    }
+]

@@ -1,0 +1,95 @@
+,ticker,company_name,first_available_year
+0,AAPL,Apple Inc.,1976
+1,MSFT,Microsoft Corporation,1975
+2,NVDA,NVIDIA Corporation,1993
+3,AVGO,Broadcom Inc.,1991
+4,CRM,Salesforce Inc.,1999
+5,AMD,Advanced Micro Devices Inc.,1969
+6,ORCL,Oracle Corporation,1977
+7,ADBE,Adobe Inc.,1982
+8,ACN,Accenture plc,1989
+9,INTC,Intel Corporation,1968
+10,QCOM,Qualcomm Incorporated,1985
+11,TXN,Texas Instruments Incorporated,1930
+12,IBM,International Business Machines Corporation,1911
+13,AMAT,Applied Materials Inc.,1967
+14,NOW,ServiceNow Inc.,2004
+15,LRCX,Lam Research Corporation,1980
+16,MU,Micron Technology Inc.,1978
+17,INTU,Intuit Inc.,1983
+18,KLAC,KLA Corporation,1997
+19,ADI,Analog Devices Inc.,1965
+20,ETN,Eaton Corporation plc,1911
+21,SNPS,Synopsys Inc.,1986
+22,CDNS,Cadence Design Systems Inc.,1988
+23,PANW,Palo Alto Networks Inc.,2005
+24,FTNT,Fortinet Inc.,2000
+25,CSCO,Cisco Systems Inc.,1984
+26,HPQ,HP Inc.,1939
+27,DELL,Dell Technologies Inc.,1984
+28,TEL,TE Connectivity Ltd.,2007
+29,HPE,Hewlett Packard Enterprise Company,2015
+30,STX,Seagate Technology Holdings plc,1979
+31,WDC,Western Digital Corporation,1970
+32,NTAP,NetApp Inc.,1992
+33,ANET,Arista Networks Inc.,2004
+34,JNPR,Juniper Networks Inc.,1996
+35,FFIV,F5 Inc.,1996
+36,ZBRA,Zebra Technologies Corporation,1969
+37,TRMB,Trimble Inc.,1978
+38,MSI,Motorola Solutions Inc.,1928
+39,KEYS,Keysight Technologies Inc.,2014
+40,ANSS,ANSYS Inc.,1970
+41,PTC,PTC Inc.,1985
+42,ADSK,Autodesk Inc.,1982
+43,WDAY,Workday Inc.,2005
+44,RPRX,Royalty Pharma plc,1996
+45,VEEV,Veeva Systems Inc.,2007
+46,MCHP,Microchip Technology Incorporated,1989
+47,ON,ON Semiconductor Corporation,1999
+48,TER,Teradyne Inc.,1960
+49,MPWR,Monolithic Power Systems Inc.,1997
+50,SWKS,Skyworks Solutions Inc.,1962
+51,QRVO,Qorvo Inc.,2015
+52,GLW,Corning Incorporated,1851
+53,APH,Amphenol Corporation,1932
+54,ROP,Roper Technologies Inc.,1981
+55,CDW,CDW Corporation,1984
+56,CTSH,Cognizant Technology Solutions Corporation,1994
+57,WIT,Wipro Limited,1945
+58,INFY,Infosys Limited,1981
+59,FIS,Fidelity National Information Services Inc.,1968
+60,GPN,Global Payments Inc.,2000
+61,PAYC,Paycom Software Inc.,1998
+62,PCTY,Paylocity Holding Corporation,1997
+63,HUBS,HubSpot Inc.,2006
+64,ZM,Zoom Video Communications Inc.,2011
+65,DOCU,DocuSign Inc.,2003
+66,OKTA,Okta Inc.,2009
+67,CRWD,CrowdStrike Holdings Inc.,2011
+68,ZS,Zscaler Inc.,2008
+69,TEAM,Atlassian Corporation,2002
+70,DDOG,Datadog Inc.,2010
+71,MDB,MongoDB Inc.,2007
+72,AKAM,Akamai Technologies Inc.,1998
+73,TWLO,Twilio Inc.,2008
+74,U,Unity Software Inc.,2004
+75,RBLX,Roblox Corporation,2004
+76,SHOP,Shopify Inc.,2006
+77,PLTR,Palantir Technologies Inc.,2003
+78,SNOW,Snowflake Inc.,2012
+79,AI,C3.ai Inc.,2009
+80,CHKP,Check Point Software Technologies Ltd.,1993
+81,CYBR,CyberArk Software Ltd.,1999
+82,QLYS,Qualys Inc.,1999
+83,TENB,Tenable Holdings Inc.,2002
+84,RPD,Rapid7 Inc.,2000
+85,VRNS,Varonis Systems Inc.,2005
+86,SAIC,Science Applications International Corporation,2013
+87,MANH,Manhattan Associates Inc.,1990
+88,EPAM,EPAM Systems Inc.,1993
+89,JBL,Jabil Inc.,1966
+90,CLS,Celestica Inc.,1994
+91,SANM,Sanmina Corporation,1980
+92,WU,The Western Union Company,1851
+93,BR,Broadridge Financial Solutions Inc.,2007

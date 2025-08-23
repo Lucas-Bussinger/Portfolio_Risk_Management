@@ -1,0 +1,4864 @@
+[
+    {
+        "risk": 0.05186998092545042,
+        "earning": 0.175464676352294,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.98
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.01
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.05186998092545042
+    },
+    {
+        "risk": 0.05140062306033315,
+        "earning": 0.1741284184627403,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.97
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.01
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.05140062306033315
+    },
+    {
+        "risk": 0.050941750231388735,
+        "earning": 0.17396943667792253,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.97
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.02
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.050941750231388735
+    },
+    {
+        "risk": 0.050482953489614235,
+        "earning": 0.17266680588473346,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.96
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.02
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.050482953489614235
+    },
+    {
+        "risk": 0.05004024078102372,
+        "earning": 0.17257050814409972,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.96
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.03
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.05004024078102372
+    },
+    {
+        "risk": 0.03812683691751139,
+        "earning": 0.17225456405170606,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.01
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.98
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03812683691751139
+    },
+    {
+        "risk": 0.03798388964637964,
+        "earning": 0.17197264463545112,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.02
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.97
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03798388964637964
+    },
+    {
+        "risk": 0.037842085548539996,
+        "earning": 0.1716907593187768,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.03
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.96
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.037842085548539996
+    },
+    {
+        "risk": 0.0377016178906623,
+        "earning": 0.17140948314195584,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.04
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.95
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0377016178906623
+    },
+    {
+        "risk": 0.03756236508397788,
+        "earning": 0.17112827940390735,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.05
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.94
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03756236508397788
+    },
+    {
+        "risk": 0.03742463043099944,
+        "earning": 0.1708478463405616,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.06
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.93
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03742463043099944
+    },
+    {
+        "risk": 0.03728820869162604,
+        "earning": 0.17056751779472515,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.07
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.92
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03728820869162604
+    },
+    {
+        "risk": 0.03715351306653691,
+        "earning": 0.17028810787418835,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.08
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.91
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03715351306653691
+    },
+    {
+        "risk": 0.03702022509225442,
+        "earning": 0.17000881116190822,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.9
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03702022509225442
+    },
+    {
+        "risk": 0.03688884701617176,
+        "earning": 0.16973067505939704,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.89
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03688884701617176
+    },
+    {
+        "risk": 0.036759015531919494,
+        "earning": 0.16945265748044128,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.11
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.88
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.036759015531919494
+    },
+    {
+        "risk": 0.03663129211327258,
+        "earning": 0.16917602852736482,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.12
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.87
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03663129211327258
+    },
+    {
+        "risk": 0.03650524578047547,
+        "earning": 0.16889952646605833,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.13
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.86
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03650524578047547
+    },
+    {
+        "risk": 0.0363815294240098,
+        "earning": 0.16862461092140277,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.14
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.85
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0363815294240098
+    },
+    {
+        "risk": 0.03625964298238983,
+        "earning": 0.16834986700465301,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.15
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.84
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03625964298238983
+    },
+    {
+        "risk": 0.03614029139959453,
+        "earning": 0.1680769541263157,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.16
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.83
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03614029139959453
+    },
+    {
+        "risk": 0.036022923191055004,
+        "earning": 0.16780428942800685,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.17
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.82
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.036022923191055004
+    },
+    {
+        "risk": 0.035908333397300665,
+        "earning": 0.16753369137877036,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.81
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.035908333397300665
+    },
+    {
+        "risk": 0.03579591078494718,
+        "earning": 0.1672633733128993,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.19
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.8
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03579591078494718
+    },
+    {
+        "risk": 0.03568776199802532,
+        "earning": 0.166998456777634,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.79
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03568776199802532
+    },
+    {
+        "risk": 0.03558064592678649,
+        "earning": 0.16673079886834014,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.21
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.78
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03558064592678649
+    },
+    {
+        "risk": 0.03547676091938692,
+        "earning": 0.1664656845719099,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.22
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.77
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03547676091938692
+    },
+    {
+        "risk": 0.03537545084119573,
+        "earning": 0.16620110177188263,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.23
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.76
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03537545084119573
+    },
+    {
+        "risk": 0.03527762206021497,
+        "earning": 0.16593931212596144,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.24
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.75
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03527762206021497
+    },
+    {
+        "risk": 0.03518258265383392,
+        "earning": 0.16567813970358275,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.25
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.74
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03518258265383392
+    },
+    {
+        "risk": 0.035091277128161284,
+        "earning": 0.16542007678302895,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.26
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.73
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.035091277128161284
+    },
+    {
+        "risk": 0.03500299542032375,
+        "earning": 0.16516281447255993,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.72
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03500299542032375
+    },
+    {
+        "risk": 0.03491870398007384,
+        "earning": 0.1649089030669199,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.28
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.71
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03491870398007384
+    },
+    {
+        "risk": 0.03483769172788713,
+        "earning": 0.16465595447076686,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.7
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03483769172788713
+    },
+    {
+        "risk": 0.03476091343147579,
+        "earning": 0.16440672226285752,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.69
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03476091343147579
+    },
+    {
+        "risk": 0.034687707315474804,
+        "earning": 0.16415861590822686,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.68
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.034687707315474804
+    },
+    {
+        "risk": 0.034618994612054074,
+        "earning": 0.16391451098411783,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.67
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.034618994612054074
+    },
+    {
+        "risk": 0.034554148760241786,
+        "earning": 0.16367179730354295,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.66
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.034554148760241786
+    },
+    {
+        "risk": 0.03449404983654384,
+        "earning": 0.16343344291619777,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.65
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03449404983654384
+    },
+    {
+        "risk": 0.03443813410264214,
+        "earning": 0.16319671373360625,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.64
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03443813410264214
+    },
+    {
+        "risk": 0.03438722552056159,
+        "earning": 0.16296470843482982,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.63
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03438722552056159
+    },
+    {
+        "risk": 0.03434084859704134,
+        "earning": 0.1627346221447577,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.62
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03434084859704134
+    },
+    {
+        "risk": 0.034299755421715046,
+        "earning": 0.1625096452289397,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.61
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.034299755421715046
+    },
+    {
+        "risk": 0.03429119416488112,
+        "earning": 0.16243926330910863,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.63
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03429119416488112
+    },
+    {
+        "risk": 0.03426355145918479,
+        "earning": 0.16228693253178553,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03426355145918479
+    },
+    {
+        "risk": 0.03424104287009122,
+        "earning": 0.1622043514943112,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.62
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03424104287009122
+    },
+    {
+        "risk": 0.034233131141693726,
+        "earning": 0.1620715289695012,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.59
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.01
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.034233131141693726
+    },
+    {
+        "risk": 0.034196157472038045,
+        "earning": 0.16197456522908416,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.61
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.034196157472038045
+    },
+    {
+        "risk": 0.034156070517434106,
+        "earning": 0.16174680845468373,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.034156070517434106
+    },
+    {
+        "risk": 0.034147124918942236,
+        "earning": 0.16168660553168843,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.62
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.03
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.034147124918942236
+    },
+    {
+        "risk": 0.03412152199602396,
+        "earning": 0.1615245702192248,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.59
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03412152199602396
+    },
+    {
+        "risk": 0.034098475340453606,
+        "earning": 0.16145206768507106,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.61
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.03
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.034098475340453606
+    },
+    {
+        "risk": 0.03409235391444839,
+        "earning": 0.16130646004360974,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.58
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.02
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03409235391444839
+    },
+    {
+        "risk": 0.0340545300950892,
+        "earning": 0.16121935901066045,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.03
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0340545300950892
+    },
+    {
+        "risk": 0.03401610976537365,
+        "earning": 0.16099219751239163,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.59
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.03
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03401610976537365
+    },
+    {
+        "risk": 0.0340045892102828,
+        "earning": 0.16093065480024904,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.61
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.04
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0340045892102828
+    },
+    {
+        "risk": 0.03398278601637444,
+        "earning": 0.16076716505114014,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.58
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.03
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03398278601637444
+    },
+    {
+        "risk": 0.033956811361438285,
+        "earning": 0.16069306106041786,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.04
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.033956811361438285
+    },
+    {
+        "risk": 0.03395544458883186,
+        "earning": 0.16054973405720985,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.57
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.03
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03395544458883186
+    },
+    {
+        "risk": 0.03391455196039754,
+        "earning": 0.16046102433736223,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.59
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.04
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03391455196039754
+    },
+    {
+        "risk": 0.03387728429400327,
+        "earning": 0.16023091776043913,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.58
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.04
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03387728429400327
+    },
+    {
+        "risk": 0.03386503898573013,
+        "earning": 0.16017909932787872,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.05
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03386503898573013
+    },
+    {
+        "risk": 0.03384582163985775,
+        "earning": 0.16000678196970602,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.57
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.04
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03384582163985775
+    },
+    {
+        "risk": 0.033818956907492696,
+        "earning": 0.15994227064151448,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.59
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.05
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.033818956907492696
+    },
+    {
+        "risk": 0.03377777221320043,
+        "earning": 0.15970714874540168,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.58
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.05
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03377777221320043
+    },
+    {
+        "risk": 0.03377720287677682,
+        "earning": 0.15966627903086522,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.06
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03377720287677682
+    },
+    {
+        "risk": 0.03374238130782523,
+        "earning": 0.1594780189902117,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.57
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.05
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03374238130782523
+    },
+    {
+        "risk": 0.03372732037963207,
+        "earning": 0.15942472595040658,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.59
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.06
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03372732037963207
+    },
+    {
+        "risk": 0.03371230670156754,
+        "earning": 0.15925097812701997,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.05
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03371230670156754
+    },
+    {
+        "risk": 0.03368224538732029,
+        "earning": 0.15918467718697285,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.58
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.06
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03368224538732029
+    },
+    {
+        "risk": 0.03364296163043148,
+        "earning": 0.15895061527047996,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.57
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.06
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03364296163043148
+    },
+    {
+        "risk": 0.03364165009101219,
+        "earning": 0.1589192770809975,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.59
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.07
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03364165009101219
+    },
+    {
+        "risk": 0.033608883920522796,
+        "earning": 0.15871843297195762,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.06
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.033608883920522796
+    },
+    {
+        "risk": 0.0335927196111805,
+        "earning": 0.1586743624874221,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.58
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.07
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0335927196111805
+    },
+    {
+        "risk": 0.03358088945582486,
+        "earning": 0.1584926663594894,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.55
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.06
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03358088945582486
+    },
+    {
+        "risk": 0.033549550210263485,
+        "earning": 0.15843544653488223,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.57
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.07
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.033549550210263485
+    },
+    {
+        "risk": 0.03351150245002515,
+        "earning": 0.15819818998543111,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.07
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03351150245002515
+    },
+    {
+        "risk": 0.033507278334825794,
+        "earning": 0.15816533575020647,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.58
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.08
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.033507278334825794
+    },
+    {
+        "risk": 0.03347952779598802,
+        "earning": 0.15796734924757835,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.55
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.07
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03347952779598802
+    },
+    {
+        "risk": 0.03346026054702217,
+        "earning": 0.1579216235698669,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.57
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.08
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03346026054702217
+    },
+    {
+        "risk": 0.03345310906310515,
+        "earning": 0.15773859534119855,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.07
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03345310906310515
+    },
+    {
+        "risk": 0.03341826910171296,
+        "earning": 0.1576793684737972,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.08
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03341826910171296
+    },
+    {
+        "risk": 0.033382328445812924,
+        "earning": 0.15744353943984724,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.55
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.08
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.033382328445812924
+    },
+    {
+        "risk": 0.033376972406111906,
+        "earning": 0.15741973526310438,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.57
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.033376972406111906
+    },
+    {
+        "risk": 0.033351855970914765,
+        "earning": 0.1572095467180538,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.08
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.033351855970914765
+    },
+    {
+        "risk": 0.03333106986276563,
+        "earning": 0.15717254044633813,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03333106986276563
+    },
+    {
+        "risk": 0.033327756310059645,
+        "earning": 0.1569824815980942,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.53
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.08
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.033327756310059645
+    },
+    {
+        "risk": 0.03329119766520588,
+        "earning": 0.15693180246974792,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.55
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03329119766520588
+    },
+    {
+        "risk": 0.03325670003889174,
+        "earning": 0.15669264918226208,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03325670003889174
+    },
+    {
+        "risk": 0.03324812248298889,
+        "earning": 0.15666710684618812,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.1
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03324812248298889
+    },
+    {
+        "risk": 0.033228551363473316,
+        "earning": 0.15646044447397328,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.53
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.033228551363473316
+    },
+    {
+        "risk": 0.03322484681021949,
+        "earning": 0.1564302059540605,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.57
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.11
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03322484681021949
+    },
+    {
+        "risk": 0.03320434888968668,
+        "earning": 0.15642151869444107,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.55
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.1
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03320434888968668
+    },
+    {
+        "risk": 0.033165849831727184,
+        "earning": 0.1561773164489244,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.1
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.033165849831727184
+    },
+    {
+        "risk": 0.033156094754250805,
+        "earning": 0.15594260900786544,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.57
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.12
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.033156094754250805
+    },
+    {
+        "risk": 0.03313368175762711,
+        "earning": 0.1559400433428353,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.53
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.1
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03313368175762711
+    },
+    {
+        "risk": 0.03312354310979299,
+        "earning": 0.1559229997813092,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.55
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.11
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03312354310979299
+    },
+    {
+        "risk": 0.03310724961686716,
+        "earning": 0.1557045903140865,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.1
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03310724961686716
+    },
+    {
+        "risk": 0.03309863251766234,
+        "earning": 0.1556810407469662,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.12
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03309863251766234
+    },
+    {
+        "risk": 0.03308107204377491,
+        "earning": 0.1556738195516941,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.11
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03308107204377491
+    },
+    {
+        "risk": 0.03304491695356793,
+        "earning": 0.15543154428727,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.53
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.11
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03304491695356793
+    },
+    {
+        "risk": 0.03303206082675337,
+        "earning": 0.15520011179352874,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.13
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03303206082675337
+    },
+    {
+        "risk": 0.03301440612892348,
+        "earning": 0.15519086916292085,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.11
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03301440612892348
+    },
+    {
+        "risk": 0.033000712731301445,
+        "earning": 0.15517183215245997,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.12
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.033000712731301445
+    },
+    {
+        "risk": 0.032990542881466384,
+        "earning": 0.15495763275393917,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.51
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.11
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032990542881466384
+    },
+    {
+        "risk": 0.03297672304403976,
+        "earning": 0.1549403745467058,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.55
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.13
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03297672304403976
+    },
+    {
+        "risk": 0.03296059150052849,
+        "earning": 0.15492464957328794,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.53
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.12
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03296059150052849
+    },
+    {
+        "risk": 0.03292640537474648,
+        "earning": 0.15468139629169972,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.13
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03292640537474648
+    },
+    {
+        "risk": 0.03292602529502007,
+        "earning": 0.15467883430740473,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.12
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03292602529502007
+    },
+    {
+        "risk": 0.0329108078214232,
+        "earning": 0.15445626448688138,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.55
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.14
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0329108078214232
+    },
+    {
+        "risk": 0.03289808158022291,
+        "earning": 0.1544404642016531,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.51
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.12
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03289808158022291
+    },
+    {
+        "risk": 0.03288235266479279,
+        "earning": 0.15442936843121957,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.53
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.13
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03288235266479279
+    },
+    {
+        "risk": 0.03287619082863181,
+        "earning": 0.15420392712192826,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.12
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03287619082863181
+    },
+    {
+        "risk": 0.03285661572544129,
+        "earning": 0.15419249773683183,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.14
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03285661572544129
+    },
+    {
+        "risk": 0.032843757140054566,
+        "earning": 0.15417847212839303,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.13
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032843757140054566
+    },
+    {
+        "risk": 0.03280865090958004,
+        "earning": 0.1539356603752279,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.53
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.14
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03280865090958004
+    },
+    {
+        "risk": 0.03279286116801865,
+        "earning": 0.15371481631134964,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.15
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03279286116801865
+    },
+    {
+        "risk": 0.03278573608583258,
+        "earning": 0.1536931822243251,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.13
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03278573608583258
+    },
+    {
+        "risk": 0.032766069509748225,
+        "earning": 0.153679789065156,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.14
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032766069509748225
+    },
+    {
+        "risk": 0.032741024689236876,
+        "earning": 0.15345326421554553,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.53
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.15
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032741024689236876
+    },
+    {
+        "risk": 0.0327300642341194,
+        "earning": 0.15343134444651235,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.51
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.14
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0327300642341194
+    },
+    {
+        "risk": 0.03269447620105007,
+        "earning": 0.15319244832262327,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.15
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03269447620105007
+    },
+    {
+        "risk": 0.03267801468827294,
+        "earning": 0.1529724709112555,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.53
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.16
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03267801468827294
+    },
+    {
+        "risk": 0.03267670896756154,
+        "earning": 0.15294519098488477,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.49
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.14
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03267670896756154
+    },
+    {
+        "risk": 0.03265447463342254,
+        "earning": 0.1529390718440692,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.51
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.15
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03265447463342254
+    },
+    {
+        "risk": 0.032627538903277006,
+        "earning": 0.15270679099814552,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.16
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032627538903277006
+    },
+    {
+        "risk": 0.032620252974003006,
+        "earning": 0.1526868525617009,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.15
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032620252974003006
+    },
+    {
+        "risk": 0.03258358928135712,
+        "earning": 0.15244854299557742,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.51
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.16
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03258358928135712
+    },
+    {
+        "risk": 0.03256602770552767,
+        "earning": 0.15222757132954656,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.17
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03256602770552767
+    },
+    {
+        "risk": 0.03254531425844969,
+        "earning": 0.15219124956892233,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.16
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03254531425844969
+    },
+    {
+        "risk": 0.03251814642799321,
+        "earning": 0.15196452411236777,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.51
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.17
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03251814642799321
+    },
+    {
+        "risk": 0.03251391960590087,
+        "earning": 0.1519419319280231,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.49
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.16
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03251391960590087
+    },
+    {
+        "risk": 0.03251056291113659,
+        "earning": 0.15175931544168245,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.18
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03251056291113659
+    },
+    {
+        "risk": 0.03247585587115672,
+        "earning": 0.15170222514375314,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.17
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03247585587115672
+    },
+    {
+        "risk": 0.032458790515229326,
+        "earning": 0.15149151476909542,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.51
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.18
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032458790515229326
+    },
+    {
+        "risk": 0.03244042240379923,
+        "earning": 0.1514478869816941,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.49
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.17
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03244042240379923
+    },
+    {
+        "risk": 0.03241251858305734,
+        "earning": 0.15122426043623824,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.18
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03241251858305734
+    },
+    {
+        "risk": 0.03241109390685555,
+        "earning": 0.15119477766471134,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.48
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.17
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03241109390685555
+    },
+    {
+        "risk": 0.03240425502885313,
+        "earning": 0.15102023409055718,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.51
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.19
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03240425502885313
+    },
+    {
+        "risk": 0.032373069884043607,
+        "earning": 0.15096496636949563,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.49
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.18
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032373069884043607
+    },
+    {
+        "risk": 0.032354037195292576,
+        "earning": 0.1507481005247621,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.19
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032354037195292576
+    },
+    {
+        "risk": 0.032339631206237375,
+        "earning": 0.15070668335032886,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.48
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.18
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032339631206237375
+    },
+    {
+        "risk": 0.0323106062052471,
+        "earning": 0.15048392286349768,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.49
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.19
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0323106062052471
+    },
+    {
+        "risk": 0.032301637935677266,
+        "earning": 0.15028275249923037,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.2
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032301637935677266
+    },
+    {
+        "risk": 0.03227310666141854,
+        "earning": 0.15022053111160774,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.48
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.19
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03227310666141854
+    },
+    {
+        "risk": 0.0322542590001255,
+        "earning": 0.1500137347548558,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.49
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.2
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0322542590001255
+    },
+    {
+        "risk": 0.032242777036541735,
+        "earning": 0.14996566698111355,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.47
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.19
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032242777036541735
+    },
+    {
+        "risk": 0.032212721198228565,
+        "earning": 0.14974530661949698,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.48
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.2
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032212721198228565
+    },
+    {
+        "risk": 0.032202890072635104,
+        "earning": 0.14954540696949,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.49
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.21
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032202890072635104
+    },
+    {
+        "risk": 0.03217833250106107,
+        "earning": 0.14948539605912625,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.47
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.2
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03217833250106107
+    },
+    {
+        "risk": 0.0321573559093406,
+        "earning": 0.14927202042980914,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.48
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.21
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0321573559093406
+    },
+    {
+        "risk": 0.032150327809122616,
+        "earning": 0.14922655669537752,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.46
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.2
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032150327809122616
+    },
+    {
+        "risk": 0.03211892731837329,
+        "earning": 0.1490071216043219,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.47
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.21
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03211892731837329
+    },
+    {
+        "risk": 0.032108104389068165,
+        "earning": 0.14880936433975298,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.48
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.22
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.032108104389068165
+    },
+    {
+        "risk": 0.03208679519261162,
+        "earning": 0.14874309511618464,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.46
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.21
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03208679519261162
+    },
+    {
+        "risk": 0.03206567170531642,
+        "earning": 0.1485395362400255,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.47
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.22
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03206567170531642
+    },
+    {
+        "risk": 0.03206219065800733,
+        "earning": 0.1484881741933366,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.21
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03206219065800733
+    },
+    {
+        "risk": 0.03202945567979268,
+        "earning": 0.14827039496783165,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.46
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.22
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03202945567979268
+    },
+    {
+        "risk": 0.03201754021019862,
+        "earning": 0.1480739663090732,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.47
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.23
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03201754021019862
+    },
+    {
+        "risk": 0.03200071349395413,
+        "earning": 0.14801032836139727,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.22
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03200071349395413
+    },
+    {
+        "risk": 0.03197727233157109,
+        "earning": 0.14779974408796087,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.46
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.23
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03197727233157109
+    },
+    {
+        "risk": 0.03197551905173017,
+        "earning": 0.147618858364838,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.47
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.24
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03197551905173017
+    },
+    {
+        "risk": 0.031944444330360706,
+        "earning": 0.14753462467434209,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.23
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031944444330360706
+    },
+    {
+        "risk": 0.031931236728587775,
+        "earning": 0.14733962993547042,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.46
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.24
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031931236728587775
+    },
+    {
+        "risk": 0.03191833417334964,
+        "earning": 0.14727050387465274,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.44
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.23
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03191833417334964
+    },
+    {
+        "risk": 0.031894346179965345,
+        "earning": 0.14706945535867452,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.24
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031894346179965345
+    },
+    {
+        "risk": 0.031890426862542225,
+        "earning": 0.14688157067187765,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.46
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.25
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031890426862542225
+    },
+    {
+        "risk": 0.03186409816156348,
+        "earning": 0.14680008548698437,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.44
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.24
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03186409816156348
+    },
+    {
+        "risk": 0.0318495308366748,
+        "earning": 0.14660642958353196,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.25
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0318495308366748
+    },
+    {
+        "risk": 0.03184167798133676,
+        "earning": 0.1465404650572829,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.43
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.24
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03184167798133676
+    },
+    {
+        "risk": 0.03181516474127417,
+        "earning": 0.14633190652686126,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.44
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.25
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03181516474127417
+    },
+    {
+        "risk": 0.03181084829629271,
+        "earning": 0.14615372968089707,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.26
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03181084829629271
+    },
+    {
+        "risk": 0.031788607782801556,
+        "earning": 0.1460670752774345,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.43
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.25
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031788607782801556
+    },
+    {
+        "risk": 0.03177242557908824,
+        "earning": 0.14587407934672722,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.44
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.26
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03177242557908824
+    },
+    {
+        "risk": 0.03176921615213559,
+        "earning": 0.14580346423286297,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.42
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.25
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03176921615213559
+    },
+    {
+        "risk": 0.031741748319235166,
+        "earning": 0.14560411861358055,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.43
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.26
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031741748319235166
+    },
+    {
+        "risk": 0.03173505459040324,
+        "earning": 0.1454184571800528,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.44
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.27
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03173505459040324
+    },
+    {
+        "risk": 0.03171815817557619,
+        "earning": 0.1453351386870015,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.42
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.26
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03171815817557619
+    },
+    {
+        "risk": 0.03170030744640691,
+        "earning": 0.14514341705568498,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.43
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.27
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03170030744640691
+    },
+    {
+        "risk": 0.031672562138354024,
+        "earning": 0.1448691654936734,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.42
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.27
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031672562138354024
+    },
+    {
+        "risk": 0.031665047960840007,
+        "earning": 0.14469288929534074,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.43
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.28
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031665047960840007
+    },
+    {
+        "risk": 0.0316529838330538,
+        "earning": 0.14460530102086938,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.41
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.27
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0316529838330538
+    },
+    {
+        "risk": 0.03163318270629974,
+        "earning": 0.14441341036070998,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.42
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.28
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03163318270629974
+    },
+    {
+        "risk": 0.03160943823149564,
+        "earning": 0.14414428445168345,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.41
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.28
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03160943823149564
+    },
+    {
+        "risk": 0.0315993318483904,
+        "earning": 0.1439599869778862,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.42
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.29
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0315993318483904
+    },
+    {
+        "risk": 0.031593294369266924,
+        "earning": 0.14387640245708036,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.28
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031593294369266924
+    },
+    {
+        "risk": 0.031571459417777975,
+        "earning": 0.1436856694700919,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.41
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.29
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031571459417777975
+    },
+    {
+        "risk": 0.03155110239633435,
+        "earning": 0.14341238214073057,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.29
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03155110239633435
+    },
+    {
+        "risk": 0.03153968901465719,
+        "earning": 0.14323710452955973,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.41
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.3
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03153968901465719
+    },
+    {
+        "risk": 0.0315393055173502,
+        "earning": 0.1431502123894683,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.29
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0315393055173502
+    },
+    {
+        "risk": 0.031515149725294574,
+        "earning": 0.14295844201636468,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.3
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031515149725294574
+    },
+    {
+        "risk": 0.0315135561473039,
+        "earning": 0.1427909610774946,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.28
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.41
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.31
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0315135561473039
+    },
+    {
+        "risk": 0.03149913493589209,
+        "earning": 0.14269087959927743,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.3
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03149913493589209
+    },
+    {
+        "risk": 0.03148488429747194,
+        "earning": 0.1425069997814099,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.31
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03148488429747194
+    },
+    {
+        "risk": 0.03146468383392923,
+        "earning": 0.14223412440991293,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.31
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03146468383392923
+    },
+    {
+        "risk": 0.031460829158494893,
+        "earning": 0.14206540143849308,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.28
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.32
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031460829158494893
+    },
+    {
+        "risk": 0.03145257475944303,
+        "earning": 0.14196258403927203,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.31
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03145257475944303
+    },
+    {
+        "risk": 0.0314364867700909,
+        "earning": 0.1417872420850704,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.32
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0314364867700909
+    },
+    {
+        "risk": 0.03142012994805512,
+        "earning": 0.1415102100522848,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.32
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03142012994805512
+    },
+    {
+        "risk": 0.03141406670703639,
+        "earning": 0.1413429243984618,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.28
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.39
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.33
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03141406670703639
+    },
+    {
+        "risk": 0.03141272861216202,
+        "earning": 0.14124506164140968,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.31
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.32
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03141272861216202
+    },
+    {
+        "risk": 0.031393527392301654,
+        "earning": 0.14106047111719158,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.33
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031393527392301654
+    },
+    {
+        "risk": 0.031381885097632733,
+        "earning": 0.1407898661745739,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.33
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031381885097632733
+    },
+    {
+        "risk": 0.03137300741076269,
+        "earning": 0.14061695889749296,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.28
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.34
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03137300741076269
+    },
+    {
+        "risk": 0.031357163196552226,
+        "earning": 0.1403409356853705,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.34
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031357163196552226
+    },
+    {
+        "risk": 0.03134993138417296,
+        "earning": 0.14006647110959305,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.34
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03134993138417296
+    },
+    {
+        "risk": 0.03133869876169942,
+        "earning": 0.13990165832590432,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.28
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.35
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03133869876169942
+    },
+    {
+        "risk": 0.03132723397981142,
+        "earning": 0.13962157737882452,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.35
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03132723397981142
+    },
+    {
+        "risk": 0.03132622403243336,
+        "earning": 0.1394650970519148,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.37
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.36
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03132622403243336
+    },
+    {
+        "risk": 0.031325098107138474,
+        "earning": 0.13935421325345138,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.35
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031325098107138474
+    },
+    {
+        "risk": 0.03131054168885551,
+        "earning": 0.13917950810488422,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.28
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.36
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03131054168885551
+    },
+    {
+        "risk": 0.0313041527482743,
+        "earning": 0.13890658928964725,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.36
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0313041527482743
+    },
+    {
+        "risk": 0.03130013868561779,
+        "earning": 0.13874689010703356,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.37
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03130013868561779
+    },
+    {
+        "risk": 0.03128951782845779,
+        "earning": 0.13846841964641768,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.28
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.37
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03128951782845779
+    },
+    {
+        "risk": 0.031288139890194286,
+        "earning": 0.1381917944087588,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.29
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.37
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031288139890194286
+    },
+    {
+        "risk": 0.03128101053220387,
+        "earning": 0.13803316976792013,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.35
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.38
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03128101053220387
+    },
+    {
+        "risk": 0.03127536673730384,
+        "earning": 0.13775084279584143,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.28
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.38
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03127536673730384
+    },
+    {
+        "risk": 0.03126892777169031,
+        "earning": 0.13731921951448764,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.39
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03126892777169031
+    },
+    {
+        "risk": 0.031268753885527065,
+        "earning": 0.13704481231894905,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.28
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.39
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031268753885527065
+    },
+    {
+        "risk": 0.031268716067034,
+        "earning": 0.13689055643406403,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.26
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.4
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.031268716067034
+    },
+    {
+        "risk": 0.03126431881066342,
+        "earning": 0.13661051331893617,
+        "tickers": [
+            {
+                "ticker": "TTWO",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "UNH",
+                "market": "health_care",
+                "percentage": 0.33
+            },
+            {
+                "ticker": "EBAY",
+                "market": "consumer_discretionary",
+                "percentage": 0.4
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.03126431881066342
+    }
+]

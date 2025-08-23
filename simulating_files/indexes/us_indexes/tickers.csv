@@ -1,0 +1,70 @@
+,ticker,name,market,description
+0,^GSPC,S&P 500,Broad Market,Tracks 500 of the largest publicly traded companies in the U.S.
+1,^DJI,Dow Jones Industrial Average,Broad Market,Tracks 30 large well-established 'blue-chip' U.S. companies.
+2,^IXIC,Nasdaq Composite,Broad Market / Technology,Tracks all stocks listed on the Nasdaq exchange known for being tech-heavy.
+3,^NDX,Nasdaq 100,Technology,Tracks the 100 largest non-financial companies listed on the Nasdaq.
+4,^RUT,Russell 2000,Small-Cap,Tracks 2000 small-capitalization U.S. companies.
+5,^VIX,CBOE Volatility Index,Volatility,Measures the market's expectation of 30-day volatility; the 'Fear Index'.
+6,^MID,S&P 400 MidCap,Mid-Cap,Tracks 400 mid-sized U.S. companies.
+7,^RUI,Russell 1000,Large-Cap,Tracks the 1000 largest U.S. companies.
+8,^RUA,Russell 3000,Broad Market,Tracks 3000 of the largest U.S. stocks representing about 98% of the market.
+9,^NYA,NYSE Composite,Broad Market,Tracks all common stocks listed on the New York Stock Exchange.
+10,^DJT,Dow Jones Transportation Average,Industrials,Tracks 20 leading U.S. transportation stocks (airlines railroads etc.).
+11,^DJU,Dow Jones Utility Average,Utilities,Tracks 15 prominent U.S. utility companies.
+12,^SOX,PHLX Semiconductor Sector Index,Technology,Tracks 30 of the largest companies involved in semiconductor design and manufacturing.
+13,^NBI,Nasdaq Biotechnology Index,Health Care,Tracks Nasdaq-listed biotechnology and pharmaceutical companies.
+14,^BKX,KBW Bank Index,Financials,Tracks 24 of the largest U.S. banking institutions.
+15,^OEX,S&P 100,Large-Cap,Represents a sub-set of the S&P 500 tracking 100 of the largest blue-chip companies.
+16,^XAU,PHLX Gold/Silver Sector Index,Materials,Tracks companies involved in the gold and silver mining industry.
+17,^HUI,NYSE Arca Gold BUGS Index,Materials,Tracks companies involved in gold mining that do not hedge their gold production.
+18,^XAL,NYSE Arca Airline Index,Industrials,A benchmark for the performance of major U.S. and overseas airlines.
+19,^SP500-45,S&P 500 Information Technology,Technology,Tracks the technology companies within the S&P 500.
+20,^SP500-35,S&P 500 Health Care,Health Care,Tracks the health care companies within the S&P 500.
+21,^SP500-40,S&P 500 Financials,Financials,Tracks the financial companies within the S&P 500.
+22,^SP500-25,S&P 500 Consumer Discretionary,Consumer Discretionary,Tracks consumer discretionary companies within the S&P 500.
+23,^SP500-20,S&P 500 Industrials,Industrials,Tracks the industrial companies within the S&P 500.
+24,^SP500-30,S&P 500 Consumer Staples,Consumer Staples,Tracks consumer staples companies within the S&P 500.
+25,^SP500-55,S&P 500 Utilities,Utilities,Tracks the utility companies within the S&P 500.
+26,^SP500-15,S&P 500 Materials,Materials,Tracks the materials companies within the S&P 500.
+27,^SP500-60,S&P 500 Real Estate,Real Estate,Tracks the real estate companies (mostly REITs) within the S&P 500.
+28,^SP500-50,S&P 500 Communication Services,Communication Services,Tracks communication services companies within the S&P 500.
+29,^RLG,Russell 1000 Growth,Growth,Tracks Russell 1000 companies with higher growth metrics.
+30,^RLV,Russell 1000 Value,Value,Tracks Russell 1000 companies with value characteristics.
+31,^RUO,Russell 2000 Growth,Small-Cap Growth,Tracks Russell 2000 companies with higher growth potential.
+32,^RUJ,Russell 2000 Value,Small-Cap Value,Tracks Russell 2000 companies with value characteristics.
+33,^SPXEW,S&P 500 Equal Weight Index,Broad Market,An equal-weighted version of the S&P 500 where all companies have the same influence.
+34,^DWCF,Dow Jones U.S. Total Stock Market Index,Broad Market,A very broad index designed to track the entire U.S. stock market.
+35,^DJUSFN,Dow Jones US Financials Index,Financials,A broad measure of the U.S. financials sector.
+36,^SPHYDA,S&P High Yield Dividend Aristocrats,Dividend Stocks,Tracks S&P 1500 companies that have increased dividends for 20+ consecutive years.
+37,^MOVE,ICE BofA MOVE Index,Volatility,Measures bond market volatility often seen as a counterpart to the VIX.
+38,^TNX,CBOE 10-Year Treasury Note Yield,Interest Rates,Tracks the yield on the U.S. 10-Year Treasury note.
+39,^TYX,CBOE 30-Year Treasury Bond Yield,Interest Rates,Tracks the yield on the U.S. 30-Year Treasury bond.
+40,^IRX,CBOE 13-Week Treasury Bill Yield,Interest Rates,Tracks the yield on the 13-week U.S. Treasury bill.
+41,^XOI,NYSE Arca Oil Index,Energy,Tracks major companies involved in all phases of the oil industry.
+42,^DRG,NYSE Arca Pharmaceutical Index,Health Care,A benchmark for the performance of major pharmaceutical companies.
+43,^DFX,Dow Jones FXCM Dollar Index,Currency,Tracks the value of the U.S. dollar against a basket of other major currencies.
+44,^SKEW,CBOE SKEW Index,Volatility,Measures the perceived risk of outlier returns (a 'black swan' event) in the S&P 500.
+45,^SPGSCI,S&P GSCI,Commodity,A benchmark for investment in the commodity markets.
+46,^BCOM,Bloomberg Commodity Index,Commodity,A broadly diversified commodity index distributed across various commodity sectors.
+47,^XNG,NYSE Arca Natural Gas Index,Energy,Tracks companies involved in the natural gas industry.
+48,^W5000,Wilshire 5000 Total Market Index,Broad Market,The broadest U.S. stock market index tracking thousands of companies.
+49,^STOXX50E,Euro Stoxx 50,European Broad Market,Tracks 50 of the largest and most liquid stocks in the Eurozone.
+50,^N225,Nikkei 225,Japanese Broad Market,The leading price-weighted index for the Tokyo Stock Exchange.
+51,^FTSE,FTSE 100,UK Broad Market,Tracks the 100 largest companies on the London Stock Exchange.
+52,^GDAXI,DAX PERFORMANCE-INDEX,German Broad Market,Tracks 40 major German companies on the Frankfurt Stock Exchange.
+53,^FCHI,CAC 40,French Broad Market,Tracks the 40 largest French stocks on the Euronext Paris exchange.
+54,^HSI,Hang Seng Index,Hong Kong Broad Market,Tracks the largest companies on the Hong Kong Stock Exchange.
+55,^KS11,KOSPI Composite Index,South Korean Broad Market,Tracks all common stocks on the Korea Stock Exchange.
+56,^AEX,AEX-Index,Dutch Broad Market,Tracks the 25 most traded securities on the Euronext Amsterdam.
+57,^BFX,BEL 20,Belgian Broad Market,Tracks the 20 largest stocks on the Euronext Brussels.
+58,^SSMI,Swiss Market Index,Swiss Broad Market,Tracks the 20 largest stocks on the SIX Swiss Exchange.
+59,^AXJO,S&P/ASX 200,Australian Broad Market,Tracks the 200 largest stocks on the Australian Securities Exchange.
+60,^BVSP,IBOVESPA,Brazilian Broad Market,The main performance indicator of the Brazil stock market.
+61,^MXX,IPC MEXICO,Mexican Broad Market,Tracks the 35 most liquid stocks on the Mexican Stock Exchange.
+62,^GSPTSE,S&P/TSX Composite Index,Canadian Broad Market,The headline index for the Canadian equity market.
+63,^MERV,MERVAL,Argentinian Broad Market,The most important index of the Buenos Aires Stock Exchange.
+64,^JKSE,Jakarta Composite Index,Indonesian Broad Market,The main stock market index in Indonesia.
+65,^KLSE,FTSE Bursa Malaysia KLCI,Malaysian Broad Market,Tracks the 30 largest companies on the Bursa Malaysia.
+66,^NZ50,S&P/NZX 50 Index,New Zealand Broad Market,The main stock market index in New Zealand.
+67,^STI,Straits Times Index,Singaporean Broad Market,Tracks the top 30 companies on the Singapore Exchange.
+68,^TWII,TSEC weighted index,Taiwanese Broad Market,The main stock market index in Taiwan.

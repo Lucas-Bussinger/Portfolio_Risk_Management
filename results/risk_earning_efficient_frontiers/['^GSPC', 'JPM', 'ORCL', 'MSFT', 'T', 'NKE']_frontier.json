@@ -1,0 +1,4923 @@
+[
+    {
+        "risk": 0.029261869200158122,
+        "earning": 0.18241716002684466,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.765
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.029261869200158122
+    },
+    {
+        "risk": 0.02883778831614,
+        "earning": 0.18012764713202814,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.72
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02883778831614
+    },
+    {
+        "risk": 0.028727606273749356,
+        "earning": 0.18002556801315125,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.72
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028727606273749356
+    },
+    {
+        "risk": 0.028475181218974247,
+        "earning": 0.17859696780591539,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.72
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028475181218974247
+    },
+    {
+        "risk": 0.028374911309374452,
+        "earning": 0.17830408316991658,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.72
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028374911309374452
+    },
+    {
+        "risk": 0.02830296323344249,
+        "earning": 0.177773814616897,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.675
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02830296323344249
+    },
+    {
+        "risk": 0.028243803300630078,
+        "earning": 0.17702112864958147,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.675
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028243803300630078
+    },
+    {
+        "risk": 0.028103069980578783,
+        "earning": 0.17626148572289793,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.675
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.028103069980578783
+    },
+    {
+        "risk": 0.027996600220984387,
+        "earning": 0.17625349363212214,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.675
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.027996600220984387
+    },
+    {
+        "risk": 0.027884486016458238,
+        "earning": 0.17598782070610608,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.675
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.027884486016458238
+    },
+    {
+        "risk": 0.02788296622498034,
+        "earning": 0.1752319730069878,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.675
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02788296622498034
+    },
+    {
+        "risk": 0.027844933113602078,
+        "earning": 0.1747527124014192,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.63
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.027844933113602078
+    },
+    {
+        "risk": 0.027655796488567447,
+        "earning": 0.17450577952389507,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.675
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.027655796488567447
+    },
+    {
+        "risk": 0.027568263313684525,
+        "earning": 0.17424475964632183,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.675
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.027568263313684525
+    },
+    {
+        "risk": 0.027503249650927816,
+        "earning": 0.1738040932694053,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.63
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.027503249650927816
+    },
+    {
+        "risk": 0.027416225018663348,
+        "earning": 0.1728962738359404,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.63
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.027416225018663348
+    },
+    {
+        "risk": 0.027219281478904435,
+        "earning": 0.17223149445157052,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.63
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.027219281478904435
+    },
+    {
+        "risk": 0.027120193747378285,
+        "earning": 0.1719945128525008,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.63
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.027120193747378285
+    },
+    {
+        "risk": 0.02709365082090002,
+        "earning": 0.1710810039941175,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.63
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02709365082090002
+    },
+    {
+        "risk": 0.027060623913724,
+        "earning": 0.17068824141038227,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.585
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.027060623913724
+    },
+    {
+        "risk": 0.027060454418518537,
+        "earning": 0.17050634672508924,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.585
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.027060454418518537
+    },
+    {
+        "risk": 0.026915051704908582,
+        "earning": 0.17045576227792986,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.63
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.026915051704908582
+    },
+    {
+        "risk": 0.02684318556658878,
+        "earning": 0.17022875476617694,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.63
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02684318556658878
+    },
+    {
+        "risk": 0.026779198284172377,
+        "earning": 0.1698618896208505,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.585
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.026779198284172377
+    },
+    {
+        "risk": 0.026769367310005687,
+        "earning": 0.1696414724454428,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.585
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.026769367310005687
+    },
+    {
+        "risk": 0.026668881136721764,
+        "earning": 0.1688029147291128,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.585
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.026668881136721764
+    },
+    {
+        "risk": 0.026517668814423564,
+        "earning": 0.16823296830552173,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.585
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.026517668814423564
+    },
+    {
+        "risk": 0.02643405819294723,
+        "earning": 0.16802657503046156,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.585
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02643405819294723
+    },
+    {
+        "risk": 0.02638718380398586,
+        "earning": 0.1669590409705124,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.585
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02638718380398586
+    },
+    {
+        "risk": 0.026353209152278928,
+        "earning": 0.1666359492433291,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.026353209152278928
+    },
+    {
+        "risk": 0.026252390963437493,
+        "earning": 0.16642707133122073,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.585
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.026252390963437493
+    },
+    {
+        "risk": 0.026196542894178953,
+        "earning": 0.16622532601735357,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.585
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.026196542894178953
+    },
+    {
+        "risk": 0.026130084552817297,
+        "earning": 0.16592701704980484,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.026130084552817297
+    },
+    {
+        "risk": 0.026108196237152256,
+        "earning": 0.16561995021471015,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.026108196237152256
+    },
+    {
+        "risk": 0.02610686613727453,
+        "earning": 0.16495696759595418,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02610686613727453
+    },
+    {
+        "risk": 0.02600080984252915,
+        "earning": 0.1647181665532315,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02600080984252915
+    },
+    {
+        "risk": 0.02589116657549033,
+        "earning": 0.16423682637767853,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02589116657549033
+    },
+    {
+        "risk": 0.025823077745799755,
+        "earning": 0.1640526596294754,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.025823077745799755
+    },
+    {
+        "risk": 0.025760256030204265,
+        "earning": 0.16283161904505725,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.025760256030204265
+    },
+    {
+        "risk": 0.02572414263329676,
+        "earning": 0.1625890111641792,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.495
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02572414263329676
+    },
+    {
+        "risk": 0.025665000456086176,
+        "earning": 0.162387356945236,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.025665000456086176
+    },
+    {
+        "risk": 0.025626512317327602,
+        "earning": 0.16221165868969298,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.025626512317327602
+    },
+    {
+        "risk": 0.025555418524294504,
+        "earning": 0.16198446427108554,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.495
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.025555418524294504
+    },
+    {
+        "risk": 0.025524779245015616,
+        "earning": 0.16159420482683423,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.495
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.025524779245015616
+    },
+    {
+        "risk": 0.02550180230788534,
+        "earning": 0.16084456353044005,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.495
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02550180230788534
+    },
+    {
+        "risk": 0.0254114244130984,
+        "earning": 0.16062530780802295,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.495
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0254114244130984
+    },
+    {
+        "risk": 0.025339419407528496,
+        "earning": 0.1602278630130812,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.495
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.025339419407528496
+    },
+    {
+        "risk": 0.02528791294189509,
+        "earning": 0.16006688154146811,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.495
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02528791294189509
+    },
+    {
+        "risk": 0.02528496185619262,
+        "earning": 0.15951862361932068,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02528496185619262
+    },
+    {
+        "risk": 0.025274025719339805,
+        "earning": 0.15890462627741028,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.495
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.025274025719339805
+    },
+    {
+        "risk": 0.025269793281551794,
+        "earning": 0.15871863664521815,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.025269793281551794
+    },
+    {
+        "risk": 0.025213372536921953,
+        "earning": 0.15869124760306375,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.495
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.025213372536921953
+    },
+    {
+        "risk": 0.025170815206352753,
+        "earning": 0.15851746691164564,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.025170815206352753
+    },
+    {
+        "risk": 0.02515359556703377,
+        "earning": 0.1583304657762931,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.495
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02515359556703377
+    },
+    {
+        "risk": 0.025131997240373162,
+        "earning": 0.15817243079538415,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.495
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.025131997240373162
+    },
+    {
+        "risk": 0.02511489714084123,
+        "earning": 0.15815941261435987,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02511489714084123
+    },
+    {
+        "risk": 0.025053816794288464,
+        "earning": 0.15801459874962565,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.025053816794288464
+    },
+    {
+        "risk": 0.025017502986253614,
+        "earning": 0.1575430079732344,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.025017502986253614
+    },
+    {
+        "risk": 0.025011080783811153,
+        "earning": 0.15703749229673244,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.025011080783811153
+    },
+    {
+        "risk": 0.024972947820544704,
+        "earning": 0.15670121972940604,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024972947820544704
+    },
+    {
+        "risk": 0.024898923138379676,
+        "earning": 0.15650186623034065,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024898923138379676
+    },
+    {
+        "risk": 0.024861143894146908,
+        "earning": 0.15618512003031923,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024861143894146908
+    },
+    {
+        "risk": 0.024825432217498205,
+        "earning": 0.15603944474166984,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024825432217498205
+    },
+    {
+        "risk": 0.024811582798565296,
+        "earning": 0.15547359966589255,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024811582798565296
+    },
+    {
+        "risk": 0.024811582300566792,
+        "earning": 0.15499961833208614,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024811582300566792
+    },
+    {
+        "risk": 0.024798565711438153,
+        "earning": 0.15487760170875745,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024798565711438153
+    },
+    {
+        "risk": 0.024786953284845203,
+        "earning": 0.1547042814269842,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024786953284845203
+    },
+    {
+        "risk": 0.02477570069556516,
+        "earning": 0.15458080485161382,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02477570069556516
+    },
+    {
+        "risk": 0.024742974785463678,
+        "earning": 0.15450490010578205,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024742974785463678
+    },
+    {
+        "risk": 0.024691827500224375,
+        "earning": 0.15439727406396636,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024691827500224375
+    },
+    {
+        "risk": 0.024669152997302005,
+        "earning": 0.15411748561551525,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024669152997302005
+    },
+    {
+        "risk": 0.024622658798098277,
+        "earning": 0.15398626246278424,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024622658798098277
+    },
+    {
+        "risk": 0.024583525127970917,
+        "earning": 0.15343338454742786,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024583525127970917
+    },
+    {
+        "risk": 0.024522003103096122,
+        "earning": 0.15275192681756003,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024522003103096122
+    },
+    {
+        "risk": 0.024519056388037964,
+        "earning": 0.15250116065673783,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024519056388037964
+    },
+    {
+        "risk": 0.024460257740268096,
+        "earning": 0.15231346725364533,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024460257740268096
+    },
+    {
+        "risk": 0.024453921714731076,
+        "earning": 0.15207580529819603,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.09
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024453921714731076
+    },
+    {
+        "risk": 0.024433593072124567,
+        "earning": 0.15194545173169383,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024433593072124567
+    },
+    {
+        "risk": 0.024412042632573683,
+        "earning": 0.1513752818075394,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024412042632573683
+    },
+    {
+        "risk": 0.024366082534752264,
+        "earning": 0.1506394242835227,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024366082534752264
+    },
+    {
+        "risk": 0.02434564157421976,
+        "earning": 0.1506042488015045,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02434564157421976
+    },
+    {
+        "risk": 0.02428707350223919,
+        "earning": 0.1502172623524415,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02428707350223919
+    },
+    {
+        "risk": 0.024262742521188416,
+        "earning": 0.14989730879456195,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024262742521188416
+    },
+    {
+        "risk": 0.024246831944788324,
+        "earning": 0.14959499489672695,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024246831944788324
+    },
+    {
+        "risk": 0.024223500323448294,
+        "earning": 0.14926214205523017,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024223500323448294
+    },
+    {
+        "risk": 0.024160847351919208,
+        "earning": 0.14881180787308237,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024160847351919208
+    },
+    {
+        "risk": 0.024110662795182265,
+        "earning": 0.14839892016973583,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024110662795182265
+    },
+    {
+        "risk": 0.02409590817301656,
+        "earning": 0.14805623124049067,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02409590817301656
+    },
+    {
+        "risk": 0.02408571598000317,
+        "earning": 0.1472012061699924,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02408571598000317
+    },
+    {
+        "risk": 0.02404832494663716,
+        "earning": 0.14701130921478794,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02404832494663716
+    },
+    {
+        "risk": 0.024017150745012733,
+        "earning": 0.14660836612343484,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024017150745012733
+    },
+    {
+        "risk": 0.024004953476292404,
+        "earning": 0.14656934450929007,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.024004953476292404
+    },
+    {
+        "risk": 0.023969043220439645,
+        "earning": 0.14624741148762366,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.023969043220439645
+    },
+    {
+        "risk": 0.023955608479771,
+        "earning": 0.14595338611462005,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.023955608479771
+    },
+    {
+        "risk": 0.023928588340113303,
+        "earning": 0.14554796443279985,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.023928588340113303
+    },
+    {
+        "risk": 0.023916493766196523,
+        "earning": 0.14524260625420587,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.023916493766196523
+    },
+    {
+        "risk": 0.02389634544550438,
+        "earning": 0.1451091498125988,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02389634544550438
+    },
+    {
+        "risk": 0.023817200668266897,
+        "earning": 0.14465079890711285,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.023817200668266897
+    },
+    {
+        "risk": 0.02377843398118093,
+        "earning": 0.1442656219437273,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02377843398118093
+    },
+    {
+        "risk": 0.023775521231328256,
+        "earning": 0.1439504860539269,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.023775521231328256
+    },
+    {
+        "risk": 0.023765455771493568,
+        "earning": 0.1431627269137874,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.023765455771493568
+    },
+    {
+        "risk": 0.023692341009569906,
+        "earning": 0.14267305196887442,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.023692341009569906
+    },
+    {
+        "risk": 0.02366133771381056,
+        "earning": 0.14226059396647756,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02366133771381056
+    },
+    {
+        "risk": 0.023631795825345532,
+        "earning": 0.14125649651456118,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.023631795825345532
+    },
+    {
+        "risk": 0.023630995232391875,
+        "earning": 0.1409816088578622,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.023630995232391875
+    },
+    {
+        "risk": 0.023562202400333427,
+        "earning": 0.14065782305169078,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.023562202400333427
+    },
+    {
+        "risk": 0.0234936525221262,
+        "earning": 0.14022982535596495,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0234936525221262
+    },
+    {
+        "risk": 0.02346622478735989,
+        "earning": 0.13987520709051335,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02346622478735989
+    },
+    {
+        "risk": 0.02341814275340175,
+        "earning": 0.13850671313875818,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02341814275340175
+    },
+    {
+        "risk": 0.02335655666455083,
+        "earning": 0.1380494641621995,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02335655666455083
+    },
+    {
+        "risk": 0.02333784269332556,
+        "earning": 0.13766956270860606,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02333784269332556
+    },
+    {
+        "risk": 0.02325465273121326,
+        "earning": 0.13593211928124066,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02325465273121326
+    },
+    {
+        "risk": 0.023196463351247597,
+        "earning": 0.13553787525324196,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.023196463351247597
+    },
+    {
+        "risk": 0.02318028134437236,
+        "earning": 0.13521732514746415,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02318028134437236
+    },
+    {
+        "risk": 0.023097737698578976,
+        "earning": 0.133546733630742,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.023097737698578976
+    },
+    {
+        "risk": 0.02304741515370947,
+        "earning": 0.1331255437236886,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02304741515370947
+    },
+    {
+        "risk": 0.023040886822475928,
+        "earning": 0.13278199588941544,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.023040886822475928
+    },
+    {
+        "risk": 0.022979527259623996,
+        "earning": 0.13088256728306147,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.022979527259623996
+    },
+    {
+        "risk": 0.022931683296026288,
+        "earning": 0.13052672585954858,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.022931683296026288
+    },
+    {
+        "risk": 0.02292692899083652,
+        "earning": 0.13024513033188131,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.315
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02292692899083652
+    },
+    {
+        "risk": 0.02290084532997433,
+        "earning": 0.12869401812944023,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.495
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02290084532997433
+    },
+    {
+        "risk": 0.02281017314938901,
+        "earning": 0.12822486322926757,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02281017314938901
+    },
+    {
+        "risk": 0.022771079773664393,
+        "earning": 0.12784476189024208,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.022771079773664393
+    },
+    {
+        "risk": 0.02274659452847651,
+        "earning": 0.12544633032263328,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02274659452847651
+    },
+    {
+        "risk": 0.022709499066915856,
+        "earning": 0.1251354976677189,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.405
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.022709499066915856
+    },
+    {
+        "risk": 0.02264628854544788,
+        "earning": 0.12288791310683204,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02264628854544788
+    },
+    {
+        "risk": 0.022565628906084035,
+        "earning": 0.12246650727352931,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.495
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.022565628906084035
+    },
+    {
+        "risk": 0.02253821958238756,
+        "earning": 0.12213466962433829,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.45
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.135
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02253821958238756
+    },
+    {
+        "risk": 0.02245374986745593,
+        "earning": 0.1166019037368287,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.585
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02245374986745593
+    },
+    {
+        "risk": 0.022383815958400676,
+        "earning": 0.11623776652728092,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.022383815958400676
+    },
+    {
+        "risk": 0.02236927062346477,
+        "earning": 0.1159640506867392,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.495
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.09
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.27
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02236927062346477
+    },
+    {
+        "risk": 0.022353550968429205,
+        "earning": 0.1097353240574971,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.63
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.022353550968429205
+    },
+    {
+        "risk": 0.022296537257893156,
+        "earning": 0.10944282014998963,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.585
+            },
+            {
+                "ticker": "JPM",
+                "market": "financials",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "ORCL",
+                "market": "comunications",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.045
+            },
+            {
+                "ticker": "T",
+                "market": "communications",
+                "percentage": 0.225
+            },
+            {
+                "ticker": "NKE",
+                "market": "consumer_discretionary",
+                "percentage": 0.045
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.022296537257893156
+    }
+]

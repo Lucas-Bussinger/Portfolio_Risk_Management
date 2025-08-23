@@ -1,0 +1,786 @@
+[
+    {
+        "risk": 0.02920863259103711,
+        "earning": 0.07381973545676829,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.02
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.98
+            }
+        ]
+    },
+    {
+        "risk": 0.02833726678221944,
+        "earning": 0.07291029138686202,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.04
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.96
+            }
+        ]
+    },
+    {
+        "risk": 0.027481894276855517,
+        "earning": 0.07205340082438393,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.06
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.94
+            }
+        ]
+    },
+    {
+        "risk": 0.026648485405501503,
+        "earning": 0.0712528811369549,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.08
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.92
+            }
+        ]
+    },
+    {
+        "risk": 0.02582932933877233,
+        "earning": 0.07049929304570514,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.9
+            }
+        ]
+    },
+    {
+        "risk": 0.025030647810863765,
+        "earning": 0.0697964442088141,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.12
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.88
+            }
+        ]
+    },
+    {
+        "risk": 0.024240169684315777,
+        "earning": 0.06913199916145256,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.14
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.86
+            }
+        ]
+    },
+    {
+        "risk": 0.023473594993867832,
+        "earning": 0.06851743629307862,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.16
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.84
+            }
+        ]
+    },
+    {
+        "risk": 0.0227118741266404,
+        "earning": 0.06793597500387548,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.18
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.82
+            }
+        ]
+    },
+    {
+        "risk": 0.021976912709967836,
+        "earning": 0.06740268838214979,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.8
+            }
+        ]
+    },
+    {
+        "risk": 0.021241769287788162,
+        "earning": 0.06689667688979682,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.22
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.78
+            }
+        ]
+    },
+    {
+        "risk": 0.020532411507800788,
+        "earning": 0.06643453728772356,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.24
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.76
+            }
+        ]
+    },
+    {
+        "risk": 0.019822069103969647,
+        "earning": 0.0659976041887001,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.26
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.74
+            }
+        ]
+    },
+    {
+        "risk": 0.01914001109159769,
+        "earning": 0.06560254017097165,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.28
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.72
+            }
+        ]
+    },
+    {
+        "risk": 0.018452737057007035,
+        "earning": 0.06522883550931356,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.7
+            }
+        ]
+    },
+    {
+        "risk": 0.017793025098805523,
+        "earning": 0.06489326232807323,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.68
+            }
+        ]
+    },
+    {
+        "risk": 0.017127402524967056,
+        "earning": 0.06457778438499774,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.34
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.66
+            }
+        ]
+    },
+    {
+        "risk": 0.016490183425712807,
+        "earning": 0.06429762716215968,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.64
+            }
+        ]
+    },
+    {
+        "risk": 0.015846133185391232,
+        "earning": 0.06403631329133827,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.38
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.62
+            }
+        ]
+    },
+    {
+        "risk": 0.01522996985806601,
+        "earning": 0.06380698404377959,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.6
+            }
+        ]
+    },
+    {
+        "risk": 0.014603683977047621,
+        "earning": 0.06359471589197417,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.42
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.58
+            }
+        ]
+    },
+    {
+        "risk": 0.014007390375488454,
+        "earning": 0.06341223513796386,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.44
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.56
+            }
+        ]
+    },
+    {
+        "risk": 0.013399089135766136,
+        "earning": 0.06324591350935509,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.46
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.54
+            }
+        ]
+    },
+    {
+        "risk": 0.012822509513314475,
+        "earning": 0.06310686034384531,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.48
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.52
+            }
+        ]
+    },
+    {
+        "risk": 0.012231130514732074,
+        "earning": 0.06298314493798522,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.5
+            }
+        ]
+    },
+    {
+        "risk": 0.01167120685644372,
+        "earning": 0.06288375537875564,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.48
+            }
+        ]
+    },
+    {
+        "risk": 0.011095879755093407,
+        "earning": 0.062799714246479,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.54
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.46
+            }
+        ]
+    },
+    {
+        "risk": 0.010553478532550271,
+        "earning": 0.06273736277309123,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.44
+            }
+        ]
+    },
+    {
+        "risk": 0.009993307076058352,
+        "earning": 0.06269026468216966,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.58
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.42
+            }
+        ]
+    },
+    {
+        "risk": 0.009465934217051773,
+        "earning": 0.06266207760788393,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.008920184910434024,
+        "earning": 0.06264949910471408,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.62
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.38
+            }
+        ]
+    },
+    {
+        "risk": 0.008407862279976764,
+        "earning": 0.06265313556875408,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.64
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.36
+            }
+        ]
+    },
+    {
+        "risk": 0.007876378849508545,
+        "earning": 0.06267280689069617,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.66
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.34
+            }
+        ]
+    },
+    {
+        "risk": 0.007378317228727477,
+        "earning": 0.0627060216526216,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.68
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.32
+            }
+        ]
+    },
+    {
+        "risk": 0.006859258141555338,
+        "earning": 0.06275594409638338,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.7
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.006374804741167778,
+        "earning": 0.06281671570997223,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.72
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.28
+            }
+        ]
+    },
+    {
+        "risk": 0.00586815775714392,
+        "earning": 0.06289500168800954,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.74
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.26
+            }
+        ]
+    },
+    {
+        "risk": 0.005397042628561224,
+        "earning": 0.06298138886576636,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.76
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.24
+            }
+        ]
+    },
+    {
+        "risk": 0.004902194418803032,
+        "earning": 0.06308631559186971,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.78
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.22
+            }
+        ]
+    },
+    {
+        "risk": 0.004443032601848414,
+        "earning": 0.063196752772596,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.8
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.003959483699152634,
+        "earning": 0.06332674529850159,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.82
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.18
+            }
+        ]
+    },
+    {
+        "risk": 0.0035123643994045884,
+        "earning": 0.06345951399456977,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.84
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.16
+            }
+        ]
+    },
+    {
+        "risk": 0.0030395798983409122,
+        "earning": 0.06361311937433715,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.86
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.14
+            }
+        ]
+    },
+    {
+        "risk": 0.0026034729002369795,
+        "earning": 0.0637669230054039,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.88
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.12
+            }
+        ]
+    },
+    {
+        "risk": 0.002141018356424686,
+        "earning": 0.06394279493078499,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.9
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.0017157045262382032,
+        "earning": 0.06411621873950787,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.92
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.08
+            }
+        ]
+    },
+    {
+        "risk": 0.0012632238295514442,
+        "earning": 0.06431307594842535,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.94
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.06
+            }
+        ]
+    },
+    {
+        "risk": 0.000848216682159615,
+        "earning": 0.06450489449104407,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.96
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.04
+            }
+        ]
+    },
+    {
+        "risk": 0.00040510204991043105,
+        "earning": 0.06472167297142967,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.98
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.02
+            }
+        ]
+    }
+]

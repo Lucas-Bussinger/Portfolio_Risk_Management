@@ -1,0 +1,4490 @@
+[
+    {
+        "risk": 0.02211882143148766,
+        "earning": 0.09477104659058015,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.984
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.008
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02211882143148766
+    },
+    {
+        "risk": 0.022032448305787117,
+        "earning": 0.09456783173798598,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.976
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.008
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.022032448305787117
+    },
+    {
+        "risk": 0.02195471956662135,
+        "earning": 0.0943632772730665,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.968
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.008
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.024
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02195471956662135
+    },
+    {
+        "risk": 0.021931588169440637,
+        "earning": 0.09433345428899395,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.976
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.016
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.021931588169440637
+    },
+    {
+        "risk": 0.021888809412172687,
+        "earning": 0.09416469045256225,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.96
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.008
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.032
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.021888809412172687
+    },
+    {
+        "risk": 0.021842062733348586,
+        "earning": 0.09411871094226801,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.968
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.016
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.021842062733348586
+    },
+    {
+        "risk": 0.021834648067750685,
+        "earning": 0.09397191852816283,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.952
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.008
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.04
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.021834648067750685
+    },
+    {
+        "risk": 0.02176456554557169,
+        "earning": 0.09391008396643234,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.96
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.016
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.024
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02176456554557169
+    },
+    {
+        "risk": 0.021739121712336794,
+        "earning": 0.09388449967994832,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.968
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.024
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.021739121712336794
+    },
+    {
+        "risk": 0.021699034423570185,
+        "earning": 0.0937074157132866,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.952
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.016
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.032
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.021699034423570185
+    },
+    {
+        "risk": 0.02164968005875404,
+        "earning": 0.09366562890352527,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.96
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.024
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02164968005875404
+    },
+    {
+        "risk": 0.021572417425546945,
+        "earning": 0.09345286584435435,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.952
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.024
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.024
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.021572417425546945
+    },
+    {
+        "risk": 0.021546967842129776,
+        "earning": 0.0934370443088504,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.96
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.032
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.021546967842129776
+    },
+    {
+        "risk": 0.021516368140187127,
+        "earning": 0.09327063855842874,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.944
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.024
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.032
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.021516368140187127
+    },
+    {
+        "risk": 0.021457598667525047,
+        "earning": 0.0932140033853664,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.952
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.032
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.021457598667525047
+    },
+    {
+        "risk": 0.02139158571599042,
+        "earning": 0.09302472439696931,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.944
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.032
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.024
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02139158571599042
+    },
+    {
+        "risk": 0.021352803559269086,
+        "earning": 0.09298568941183988,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.952
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.04
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.021352803559269086
+    },
+    {
+        "risk": 0.0213270643442264,
+        "earning": 0.09281605578280284,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.936
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.032
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.032
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0213270643442264
+    },
+    {
+        "risk": 0.02127623040629783,
+        "earning": 0.09278889319317521,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.944
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.04
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02127623040629783
+    },
+    {
+        "risk": 0.021274467012128827,
+        "earning": 0.09261304590346475,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.928
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.032
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.04
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.021274467012128827
+    },
+    {
+        "risk": 0.02119993793744477,
+        "earning": 0.09257026744369731,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.936
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.04
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.024
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02119993793744477
+    },
+    {
+        "risk": 0.02117306399410917,
+        "earning": 0.09256870154873197,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.944
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.048
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02117306399410917
+    },
+    {
+        "risk": 0.021135791955165746,
+        "earning": 0.09235744206459352,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.928
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.04
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.032
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.021135791955165746
+    },
+    {
+        "risk": 0.021084622351777986,
+        "earning": 0.09233993764727873,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.936
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.048
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.021084622351777986
+    },
+    {
+        "risk": 0.020979406896964252,
+        "earning": 0.09212008357917462,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.936
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.056
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.020979406896964252
+    },
+    {
+        "risk": 0.020960115430205976,
+        "earning": 0.09194011776921913,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.92
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.048
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.032
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.020960115430205976
+    },
+    {
+        "risk": 0.020891022707337985,
+        "earning": 0.09188707570418427,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.928
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.056
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.020891022707337985
+    },
+    {
+        "risk": 0.02083249166485133,
+        "earning": 0.09170286940210136,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.92
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.056
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.024
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02083249166485133
+    },
+    {
+        "risk": 0.02078597450836717,
+        "earning": 0.09167276484012005,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.928
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.064
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02078597450836717
+    },
+    {
+        "risk": 0.02076930496392968,
+        "earning": 0.09148415101865559,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.912
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.056
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.032
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02076930496392968
+    },
+    {
+        "risk": 0.020716695120895724,
+        "earning": 0.0914808586638343,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.92
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.064
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.020716695120895724
+    },
+    {
+        "risk": 0.020611077538141613,
+        "earning": 0.09126925343814464,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.92
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.072
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.020611077538141613
+    },
+    {
+        "risk": 0.020523558140601483,
+        "earning": 0.09103062224550673,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.912
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.072
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.020523558140601483
+    },
+    {
+        "risk": 0.020418083595549814,
+        "earning": 0.09082447519436954,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.912
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.08
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.020418083595549814
+    },
+    {
+        "risk": 0.02040765007315633,
+        "earning": 0.09062564383198299,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.896
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.072
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.032
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02040765007315633
+    },
+    {
+        "risk": 0.02033059745263556,
+        "earning": 0.09058154184584433,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.904
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.08
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02033059745263556
+    },
+    {
+        "risk": 0.020279362587867097,
+        "earning": 0.09040202039858307,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.896
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.08
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.024
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.020279362587867097
+    },
+    {
+        "risk": 0.02022310238888355,
+        "earning": 0.09037590468870237,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.904
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.088
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.02022310238888355
+    },
+    {
+        "risk": 0.020160949981304053,
+        "earning": 0.09018853849067307,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.896
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.088
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.020160949981304053
+    },
+    {
+        "risk": 0.020055066520657746,
+        "earning": 0.08999035682655378,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.896
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.096
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.020055066520657746
+    },
+    {
+        "risk": 0.019968387640865847,
+        "earning": 0.08974189364363763,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.888
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.096
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.019968387640865847
+    },
+    {
+        "risk": 0.01986051450227832,
+        "earning": 0.08954428554697666,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.888
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.104
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01986051450227832
+    },
+    {
+        "risk": 0.019773856064501237,
+        "earning": 0.08929144382107009,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.88
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.104
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.019773856064501237
+    },
+    {
+        "risk": 0.01966606380760851,
+        "earning": 0.08909922565668112,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.88
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.112
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01966606380760851
+    },
+    {
+        "risk": 0.0195794162838483,
+        "earning": 0.08884195343401013,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.872
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.112
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0195794162838483
+    },
+    {
+        "risk": 0.019537775300101944,
+        "earning": 0.0886676383025701,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.864
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.112
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.024
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.019537775300101944
+    },
+    {
+        "risk": 0.019469628606184557,
+        "earning": 0.08865041865717611,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.872
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.12
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.019469628606184557
+    },
+    {
+        "risk": 0.019416714436332357,
+        "earning": 0.08846798278310064,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.864
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.12
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.019416714436332357
+    },
+    {
+        "risk": 0.019308535641086488,
+        "earning": 0.08828352552626419,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.864
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.128
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.019308535641086488
+    },
+    {
+        "risk": 0.01922263083044009,
+        "earning": 0.08802079992826053,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.856
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.128
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01922263083044009
+    },
+    {
+        "risk": 0.019112485714413978,
+        "earning": 0.08783708809212734,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.856
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.136
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.019112485714413978
+    },
+    {
+        "risk": 0.019026580414927365,
+        "earning": 0.08756985305911116,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.848
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.136
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.019026580414927365
+    },
+    {
+        "risk": 0.018991967415078123,
+        "earning": 0.0873994797242768,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.84
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.136
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.024
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.018991967415078123
+    },
+    {
+        "risk": 0.01891645252394055,
+        "earning": 0.08739147208488468,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.848
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.144
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01891645252394055
+    },
+    {
+        "risk": 0.018870330774766235,
+        "earning": 0.08721280354792957,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.84
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.144
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.018870330774766235
+    },
+    {
+        "risk": 0.018759841350733206,
+        "earning": 0.08703673257960125,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.84
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.152
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.018759841350733206
+    },
+    {
+        "risk": 0.0186746311468896,
+        "earning": 0.08676412819431037,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.832
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.152
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0186746311468896
+    },
+    {
+        "risk": 0.018564135535937953,
+        "earning": 0.08659331605744104,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.832
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.16
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.018564135535937953
+    },
+    {
+        "risk": 0.01847890577397656,
+        "earning": 0.08631613243930301,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.824
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.16
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01847890577397656
+    },
+    {
+        "risk": 0.018451187265210268,
+        "earning": 0.08614937918912932,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.816
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.16
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.024
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.018451187265210268
+    },
+    {
+        "risk": 0.018366463571894823,
+        "earning": 0.08614623906206231,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.824
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.168
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.018366463571894823
+    },
+    {
+        "risk": 0.01832701035237768,
+        "earning": 0.0859710459655664,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.816
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.168
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01832701035237768
+    },
+    {
+        "risk": 0.01821615934482143,
+        "earning": 0.08580763069079606,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.816
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.176
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01821615934482143
+    },
+    {
+        "risk": 0.01813158139244828,
+        "earning": 0.08552515689086962,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.808
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.176
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01813158139244828
+    },
+    {
+        "risk": 0.018018810013289196,
+        "earning": 0.08536271945287796,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.808
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.184
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.018018810013289196
+    },
+    {
+        "risk": 0.01793420352321986,
+        "earning": 0.08507558508076843,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.8
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.184
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01793420352321986
+    },
+    {
+        "risk": 0.0178213602497237,
+        "earning": 0.08491836038582594,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.8
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.192
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0178213602497237
+    },
+    {
+        "risk": 0.017736717608964947,
+        "earning": 0.08462650396965755,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.792
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.192
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.017736717608964947
+    },
+    {
+        "risk": 0.017621943550446766,
+        "earning": 0.08447037310205321,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.792
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.017621943550446766
+    },
+    {
+        "risk": 0.017591354001414625,
+        "earning": 0.08429884281677415,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.784
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.017591354001414625
+    },
+    {
+        "risk": 0.017478168411410516,
+        "earning": 0.0841488422036714,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.784
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.208
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.017478168411410516
+    },
+    {
+        "risk": 0.017394129982266145,
+        "earning": 0.08385175703401448,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.776
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.208
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.017394129982266145
+    },
+    {
+        "risk": 0.01727903801218881,
+        "earning": 0.08370290784936565,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.776
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.216
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01727903801218881
+    },
+    {
+        "risk": 0.01719495625079551,
+        "earning": 0.08340101674657394,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.768
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.216
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01719495625079551
+    },
+    {
+        "risk": 0.01707972396537934,
+        "earning": 0.08325734235039914,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.768
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.224
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01707972396537934
+    },
+    {
+        "risk": 0.017055566774549467,
+        "earning": 0.08308863636432397,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.76
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.224
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.017055566774549467
+    },
+    {
+        "risk": 0.016940165100971172,
+        "earning": 0.08294690974454093,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.76
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.232
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.016940165100971172
+    },
+    {
+        "risk": 0.016856653119961616,
+        "earning": 0.08263986194603386,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.752
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.232
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.016856653119961616
+    },
+    {
+        "risk": 0.016741087468167618,
+        "earning": 0.082503248560275,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.752
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.24
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.016741087468167618
+    },
+    {
+        "risk": 0.016657518701815015,
+        "earning": 0.08219131368269132,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.744
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.24
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.016657518701815015
+    },
+    {
+        "risk": 0.01654005622622622,
+        "earning": 0.08205602734235383,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.744
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.248
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01654005622622622
+    },
+    {
+        "risk": 0.016522244307332002,
+        "earning": 0.08188990085289308,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.736
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.248
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.016522244307332002
+    },
+    {
+        "risk": 0.01640635256478782,
+        "earning": 0.08176019752580563,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.736
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.256
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01640635256478782
+    },
+    {
+        "risk": 0.016323323135346974,
+        "earning": 0.08144317418676565,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.728
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.256
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.016323323135346974
+    },
+    {
+        "risk": 0.01620555593419281,
+        "earning": 0.08131485282551953,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.728
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.264
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01620555593419281
+    },
+    {
+        "risk": 0.01612246570184966,
+        "earning": 0.08099285623185547,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.72
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.264
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01612246570184966
+    },
+    {
+        "risk": 0.016004462106938643,
+        "earning": 0.08086962140068137,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.72
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.272
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.016004462106938643
+    },
+    {
+        "risk": 0.015992899457988943,
+        "earning": 0.08070582009699112,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.712
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.272
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.015992899457988943
+    },
+    {
+        "risk": 0.01587483268066758,
+        "earning": 0.08058431699275168,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.712
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.28
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01587483268066758
+    },
+    {
+        "risk": 0.01579225509818332,
+        "earning": 0.0802572978458689,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.704
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.28
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01579225509818332
+    },
+    {
+        "risk": 0.015673927627824775,
+        "earning": 0.080140825208315,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.704
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.288
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.015673927627824775
+    },
+    {
+        "risk": 0.015591279811032421,
+        "earning": 0.07980874559711222,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.696
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.288
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.015591279811032421
+    },
+    {
+        "risk": 0.015471079295556684,
+        "earning": 0.07969383147311038,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.696
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.296
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.015471079295556684
+    },
+    {
+        "risk": 0.01538836422014574,
+        "earning": 0.07935661847643931,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.688
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.296
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01538836422014574
+    },
+    {
+        "risk": 0.015267850405545796,
+        "earning": 0.07924677153269566,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.688
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.304
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.015267850405545796
+    },
+    {
+        "risk": 0.015264894849589122,
+        "earning": 0.07908524639610279,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.68
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.304
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.015264894849589122
+    },
+    {
+        "risk": 0.015144392625826456,
+        "earning": 0.07897700731932177,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.68
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.312
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.015144392625826456
+    },
+    {
+        "risk": 0.015062164430360353,
+        "earning": 0.07863481893158623,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.672
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.312
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.015062164430360353
+    },
+    {
+        "risk": 0.01494132359011743,
+        "earning": 0.0785315939479643,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.672
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01494132359011743
+    },
+    {
+        "risk": 0.014859021990189427,
+        "earning": 0.07818417977142193,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.664
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.014859021990189427
+    },
+    {
+        "risk": 0.01473630449165598,
+        "earning": 0.07808269241084477,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.664
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.328
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01473630449165598
+    },
+    {
+        "risk": 0.014618330351164596,
+        "earning": 0.07782625148634545,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.656
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.336
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.014618330351164596
+    },
+    {
+        "risk": 0.014536498409130207,
+        "earning": 0.0774739219013687,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.648
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.336
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.014536498409130207
+    },
+    {
+        "risk": 0.014413471220896448,
+        "earning": 0.07737897358955695,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.648
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.344
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.014413471220896448
+    },
+    {
+        "risk": 0.014331569234031213,
+        "earning": 0.07702132728150346,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.64
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.344
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.014331569234031213
+    },
+    {
+        "risk": 0.014208119569795535,
+        "earning": 0.07693138362220482,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.64
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.352
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.014208119569795535
+    },
+    {
+        "risk": 0.01409406598426556,
+        "earning": 0.07668474693862362,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.632
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01409406598426556
+    },
+    {
+        "risk": 0.014012620664223981,
+        "earning": 0.07632224357268569,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.624
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.014012620664223981
+    },
+    {
+        "risk": 0.013888833619766885,
+        "earning": 0.07623865965953316,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.624
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.368
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.013888833619766885
+    },
+    {
+        "risk": 0.01380731787852916,
+        "earning": 0.07587074119660712,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.616
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.368
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01380731787852916
+    },
+    {
+        "risk": 0.013681656268023446,
+        "earning": 0.07578912674017084,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.616
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.376
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.013681656268023446
+    },
+    {
+        "risk": 0.013600076948873418,
+        "earning": 0.07541571623892239,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.608
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.376
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.013600076948873418
+    },
+    {
+        "risk": 0.013473901633011367,
+        "earning": 0.0753391037725989,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.608
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.384
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.013473901633011367
+    },
+    {
+        "risk": 0.01336648863903361,
+        "earning": 0.07510849056251342,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.392
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01336648863903361
+    },
+    {
+        "risk": 0.013285357176435347,
+        "earning": 0.07473025786406887,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.592
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.392
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.013285357176435347
+    },
+    {
+        "risk": 0.013158157847760907,
+        "earning": 0.07465845016282534,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.592
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.013158157847760907
+    },
+    {
+        "risk": 0.01307697084053357,
+        "earning": 0.07427462656973476,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.584
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01307697084053357
+    },
+    {
+        "risk": 0.012949193735292065,
+        "earning": 0.07420779951491926,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.584
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.408
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.012949193735292065
+    },
+    {
+        "risk": 0.012845634995778798,
+        "earning": 0.07398660448716823,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.576
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.416
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.012845634995778798
+    },
+    {
+        "risk": 0.012764897810490613,
+        "earning": 0.07359801746784592,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.568
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.416
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.012764897810490613
+    },
+    {
+        "risk": 0.012636746738723623,
+        "earning": 0.07353730983431588,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.568
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.424
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.012636746738723623
+    },
+    {
+        "risk": 0.012555963193472445,
+        "earning": 0.07314302526719885,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.424
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.012555963193472445
+    },
+    {
+        "risk": 0.012425902784194032,
+        "earning": 0.07308458779626294,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.432
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.012425902784194032
+    },
+    {
+        "risk": 0.01232743061237287,
+        "earning": 0.07287533678450567,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.552
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.44
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01232743061237287
+    },
+    {
+        "risk": 0.012247101380218334,
+        "earning": 0.07247634115816455,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.544
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.44
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.012247101380218334
+    },
+    {
+        "risk": 0.012116664210899946,
+        "earning": 0.0724239533482877,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.544
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.448
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.012116664210899946
+    },
+    {
+        "risk": 0.012036309016765216,
+        "earning": 0.07201916355658484,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.536
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.448
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.012036309016765216
+    },
+    {
+        "risk": 0.011905152541930445,
+        "earning": 0.07197172243867875,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.536
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.456
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.011905152541930445
+    },
+    {
+        "risk": 0.011824779555330758,
+        "earning": 0.07156104271434423,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.528
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.456
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.011824779555330758
+    },
+    {
+        "risk": 0.011691671236982153,
+        "earning": 0.07151606017779227,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.528
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.464
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.011691671236982153
+    },
+    {
+        "risk": 0.01159900061362635,
+        "earning": 0.07132056152712252,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.472
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01159900061362635
+    },
+    {
+        "risk": 0.011519104773388671,
+        "earning": 0.07090520547276842,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.512
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.472
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.011519104773388671
+    },
+    {
+        "risk": 0.011385573624954518,
+        "earning": 0.07086616329257489,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.512
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.48
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.011385573624954518
+    },
+    {
+        "risk": 0.011305689464596,
+        "earning": 0.07044481812248674,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.504
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.48
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.011305689464596
+    },
+    {
+        "risk": 0.011171313570427034,
+        "earning": 0.07041073931723368,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.504
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.488
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.011171313570427034
+    },
+    {
+        "risk": 0.011082428576057648,
+        "earning": 0.070224197129632,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.496
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.496
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.011082428576057648
+    },
+    {
+        "risk": 0.011003043370424256,
+        "earning": 0.0697982259864491,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.488
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.496
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.011003043370424256
+    },
+    {
+        "risk": 0.010868188627166594,
+        "earning": 0.06976993825021546,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.488
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.504
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.010868188627166594
+    },
+    {
+        "risk": 0.010788846275689953,
+        "earning": 0.06933786003189028,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.48
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.504
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.010788846275689953
+    },
+    {
+        "risk": 0.01065197504837522,
+        "earning": 0.06931226751472416,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.48
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.512
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01065197504837522
+    },
+    {
+        "risk": 0.01056793846520431,
+        "earning": 0.06913681869835966,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.472
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01056793846520431
+    },
+    {
+        "risk": 0.01048912595953751,
+        "earning": 0.06870016330690731,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.464
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.52
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.01048912595953751
+    },
+    {
+        "risk": 0.010351747642410558,
+        "earning": 0.06868029963439663,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.464
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.528
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.010351747642410558
+    },
+    {
+        "risk": 0.010273024294231103,
+        "earning": 0.0682374361275139,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.456
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.528
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.010273024294231103
+    },
+    {
+        "risk": 0.010134610378703949,
+        "earning": 0.06822252116351275,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.456
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.536
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.010134610378703949
+    },
+    {
+        "risk": 0.010054320371026262,
+        "earning": 0.06805577494765072,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.448
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.544
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.010054320371026262
+    },
+    {
+        "risk": 0.009976168333683673,
+        "earning": 0.06760838269427828,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.44
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.544
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.009976168333683673
+    },
+    {
+        "risk": 0.009837173806280962,
+        "earning": 0.06759905651042157,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.44
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.552
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.009837173806280962
+    },
+    {
+        "risk": 0.00975916267489695,
+        "earning": 0.06714533240485625,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.432
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.552
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.00975916267489695
+    },
+    {
+        "risk": 0.009618046974332358,
+        "earning": 0.06713893915028876,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.432
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.009618046974332358
+    },
+    {
+        "risk": 0.009540212172010268,
+        "earning": 0.0666787959587684,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.424
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.56
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.016
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.009540212172010268
+    },
+    {
+        "risk": 0.00939788278277494,
+        "earning": 0.06667738197879337,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.424
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.568
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.00939788278277494
+    },
+    {
+        "risk": 0.009323333657782946,
+        "earning": 0.0665237408139719,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.416
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.576
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.009323333657782946
+    },
+    {
+        "risk": 0.009103140805615991,
+        "earning": 0.06606318226462793,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.408
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.584
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.009103140805615991
+    },
+    {
+        "risk": 0.008880947826770909,
+        "earning": 0.0655992069872131,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.592
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.008880947826770909
+    },
+    {
+        "risk": 0.008811052930150814,
+        "earning": 0.06545594929452286,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.392
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.008811052930150814
+    },
+    {
+        "risk": 0.008588835355009808,
+        "earning": 0.06499296340397566,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.384
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.608
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.008588835355009808
+    },
+    {
+        "risk": 0.008365465768944945,
+        "earning": 0.06452830621993695,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.376
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.616
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.008365465768944945
+    },
+    {
+        "risk": 0.008299312891432284,
+        "earning": 0.06439348250567192,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.368
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.624
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.008299312891432284
+    },
+    {
+        "risk": 0.008075890498847414,
+        "earning": 0.06392973394108194,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.36
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.632
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.008075890498847414
+    },
+    {
+        "risk": 0.007850458253011252,
+        "earning": 0.06346257175852774,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.352
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.64
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.007850458253011252
+    },
+    {
+        "risk": 0.007623780959750763,
+        "earning": 0.06299355505520438,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.344
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.648
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.007623780959750763
+    },
+    {
+        "risk": 0.007563365442170182,
+        "earning": 0.06287147088879375,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.336
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.656
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.007563365442170182
+    },
+    {
+        "risk": 0.0073366206162700925,
+        "earning": 0.062403310488515995,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.328
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.664
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0073366206162700925
+    },
+    {
+        "risk": 0.0071078449858092,
+        "earning": 0.06193171150014955,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.32
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.672
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0071078449858092
+    },
+    {
+        "risk": 0.007051928292735951,
+        "earning": 0.061819421919819435,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.312
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.68
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.007051928292735951
+    },
+    {
+        "risk": 0.0068230929757387305,
+        "earning": 0.06134867480422621,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.304
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.688
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0068230929757387305
+    },
+    {
+        "risk": 0.006592900691497941,
+        "earning": 0.06087584350408223,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.296
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.696
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.006592900691497941
+    },
+    {
+        "risk": 0.00654075692441515,
+        "earning": 0.06077181990927469,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.288
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.704
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.00654075692441515
+    },
+    {
+        "risk": 0.006310483894104985,
+        "earning": 0.06029977038492315,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.28
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.712
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.006310483894104985
+    },
+    {
+        "risk": 0.006078174708285811,
+        "earning": 0.0598242782546566,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.272
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.72
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.006078174708285811
+    },
+    {
+        "risk": 0.005844420230982635,
+        "earning": 0.059346516035655536,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.264
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.728
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.005844420230982635
+    },
+    {
+        "risk": 0.00579805972651997,
+        "earning": 0.059255002708621794,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.256
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.736
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.00579805972651997
+    },
+    {
+        "risk": 0.005564223582375788,
+        "earning": 0.05877798013926165,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.248
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.744
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.005564223582375788
+    },
+    {
+        "risk": 0.005328340881284328,
+        "earning": 0.05829748495036585,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.24
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.752
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.005328340881284328
+    },
+    {
+        "risk": 0.005286357946133415,
+        "earning": 0.05821528142037241,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.232
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.76
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.005286357946133415
+    },
+    {
+        "risk": 0.005050415910729124,
+        "earning": 0.05773552735011874,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.224
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.768
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.005050415910729124
+    },
+    {
+        "risk": 0.004812941092810818,
+        "earning": 0.057253276358411466,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.216
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.776
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.004812941092810818
+    },
+    {
+        "risk": 0.004775030526348373,
+        "earning": 0.05717971820751243,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.208
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.784
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.004775030526348373
+    },
+    {
+        "risk": 0.0045372630204656705,
+        "earning": 0.056697690537729745,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.792
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0045372630204656705
+    },
+    {
+        "risk": 0.004297935833032451,
+        "earning": 0.05621305388926863,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.192
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.8
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.004297935833032451
+    },
+    {
+        "risk": 0.004263875290973608,
+        "earning": 0.05614765511276479,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.184
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.808
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.004263875290973608
+    },
+    {
+        "risk": 0.004024527934933406,
+        "earning": 0.05566367614662432,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.176
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.816
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.004024527934933406
+    },
+    {
+        "risk": 0.0037832170538965176,
+        "earning": 0.055176213650717974,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.168
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.824
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0037832170538965176
+    },
+    {
+        "risk": 0.0035403431075236537,
+        "earning": 0.05468595565687959,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.16
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.832
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0035403431075236537
+    },
+    {
+        "risk": 0.003512172879926432,
+        "earning": 0.054632920175060745,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.152
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.84
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.003512172879926432
+    },
+    {
+        "risk": 0.003269399723830644,
+        "earning": 0.05414329419923466,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.144
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.848
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.003269399723830644
+    },
+    {
+        "risk": 0.003024811815840671,
+        "earning": 0.05365015352535217,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.136
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.856
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.003024811815840671
+    },
+    {
+        "risk": 0.003000887600474825,
+        "earning": 0.05360591200962396,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.128
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.864
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.003000887600474825
+    },
+    {
+        "risk": 0.0027565930525357274,
+        "earning": 0.053113415055634924,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.12
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.872
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0027565930525357274
+    },
+    {
+        "risk": 0.002511012355979904,
+        "earning": 0.05261790487885003,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.112
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.88
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.002511012355979904
+    },
+    {
+        "risk": 0.002491019425731352,
+        "earning": 0.0525818398781151,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.104
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.888
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.002491019425731352
+    },
+    {
+        "risk": 0.002246086139585398,
+        "earning": 0.052086930996612504,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.096
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.896
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.002246086139585398
+    },
+    {
+        "risk": 0.0020001457727530066,
+        "earning": 0.051588504908972495,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.088
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.904
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0020001457727530066
+    },
+    {
+        "risk": 0.0017539153953075083,
+        "earning": 0.05108688249777042,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.08
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.912
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0017539153953075083
+    },
+    {
+        "risk": 0.001739882438674304,
+        "earning": 0.05106320478729257,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.072
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.92
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.001739882438674304
+    },
+    {
+        "risk": 0.0014960177029399776,
+        "earning": 0.050562174929220625,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.064
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.928
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0014960177029399776
+    },
+    {
+        "risk": 0.0012540668024570612,
+        "earning": 0.05005760225607218,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.056
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.936
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0012540668024570612
+    },
+    {
+        "risk": 0.0012440886325601013,
+        "earning": 0.05004241285928383,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.048
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.944
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0012440886325601013
+    },
+    {
+        "risk": 0.0010088782782171919,
+        "earning": 0.04953845553221682,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.04
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.952
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0010088782782171919
+    },
+    {
+        "risk": 0.0007845493358057401,
+        "earning": 0.04903109851811866,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.032
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.96
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0007845493358057401
+    },
+    {
+        "risk": 0.0007782651396140052,
+        "earning": 0.04902416130884183,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.024
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.968
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0007782651396140052
+    },
+    {
+        "risk": 0.0005804323140474192,
+        "earning": 0.04851739294204126,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.016
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.976
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.0005804323140474192
+    },
+    {
+        "risk": 0.00044898239616635775,
+        "earning": 0.04800709378506368,
+        "tickers": [
+            {
+                "ticker": "^GSPC",
+                "market": "S&P 500 Index",
+                "percentage": 0.008
+            },
+            {
+                "ticker": "^TYX",
+                "market": "Total Bond Market",
+                "percentage": 0.984
+            },
+            {
+                "ticker": "CL=F",
+                "market": "OIL",
+                "percentage": 0.008
+            }
+        ],
+        "min_risk_at_this_earning_or_higher": 0.00044898239616635775
+    }
+]

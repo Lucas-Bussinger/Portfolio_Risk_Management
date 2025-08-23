@@ -1,0 +1,758 @@
+[
+    {
+        "risk": null,
+        "earning": null,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": null,
+        "earning": null,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.028772415669716632,
+        "earning": 0.1683622537333859,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.8
+            }
+        ]
+    },
+    {
+        "risk": 0.02212757122014298,
+        "earning": 0.1262690559957843,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.025854796857864737,
+        "earning": 0.1587536437860538,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.7
+            }
+        ]
+    },
+    {
+        "risk": 0.02744431420771928,
+        "earning": 0.1617866185961676,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.7
+            }
+        ]
+    },
+    {
+        "risk": 0.026358222799251898,
+        "earning": 0.15494369639133462,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.6
+            }
+        ]
+    },
+    {
+        "risk": 0.025500905840806318,
+        "earning": 0.14754225254804457,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.5
+            }
+        ]
+    },
+    {
+        "risk": 0.02349864913232552,
+        "earning": 0.14410353990426525,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.5
+            }
+        ]
+    },
+    {
+        "risk": 0.022961353471203847,
+        "earning": 0.14900074073144567,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.6
+            }
+        ]
+    },
+    {
+        "risk": 0.021939304040557186,
+        "earning": 0.10123106093350503,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.7
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.024551920127592407,
+        "earning": 0.1516626209781044,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.6
+            }
+        ]
+    },
+    {
+        "risk": 0.02439735557032051,
+        "earning": 0.1195145163658713,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.7
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.02488048329997492,
+        "earning": 0.13945864639861213,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.024717331599693873,
+        "earning": 0.10631422971566709,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.8
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.022690596227932874,
+        "earning": 0.1357282000308385,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.02166874066398194,
+        "earning": 0.14116764292185555,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.5
+            }
+        ]
+    },
+    {
+        "risk": 0.020636691850070984,
+        "earning": 0.13258476456093737,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.019868257020827975,
+        "earning": 0.12278549158431612,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.020053572210588653,
+        "earning": 0.13880360196799274,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.5
+            }
+        ]
+    },
+    {
+        "risk": 0.018752339217811012,
+        "earning": 0.12991851071729252,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.01698582316057236,
+        "earning": 0.10789901169562328,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.019223794478002314,
+        "earning": 0.09678919106312335,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.016572824886684483,
+        "earning": 0.09293555078110294,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.017725819640424842,
+        "earning": 0.11985494328336734,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.012573853907456951,
+        "earning": 0.10277033526918809,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.01936108855795975,
+        "earning": 0.11123431178474434,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.014704231246515464,
+        "earning": 0.10509837287645114,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.014005905065203132,
+        "earning": 0.08963458498019823,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.4
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.015747281512495395,
+        "earning": 0.11739066587067079,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.017083244841144284,
+        "earning": 0.12778976517898372,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.5
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "risk": 0.01398251099798778,
+        "earning": 0.11544066569320699,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "risk": 0.011500189960620981,
+        "earning": 0.08686748193749282,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.6
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.3
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.010645032108076456,
+        "earning": 0.10094387166132313,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.7
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "risk": 0.00911865962814459,
+        "earning": 0.08460442768350544,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.7
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.2
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.1
+            }
+        ]
+    },
+    {
+        "risk": 0.006893371442171076,
+        "earning": 0.08284188683013738,
+        "tickers": [
+            {
+                "ticker": "^TYX",
+                "market": "government",
+                "percentage": 0.8
+            },
+            {
+                "ticker": "^SP500-15",
+                "market": "energy",
+                "percentage": 0.1
+            },
+            {
+                "ticker": "MSFT",
+                "market": "information_technology",
+                "percentage": 0.1
+            }
+        ]
+    }
+]
